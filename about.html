@@ -1,12 +1,31 @@
 <html>
 <head>
-  <script>var slApiConfig={htmlTranslsationMode:"html",uid:"49abf3cb5",locale:"fr-FR"};</script>
+  <script>var slApiConfig={uid:"49abf3cb5",locale:"fr-FR"};</script>
 <script src="https://pinchjs-cdn.gdn.smartling.com/sl-tran-49abf3cb5-fr-FR.js"></script>
 <script src="https://pinchjs-cdn.gdn.smartling.com/sl-init.js"></script>
   
 </head>
 <body>
+<div>
+  <h1 id="heading"></h1>
+  <p id="intro"></p>
+  <p id="main"></p>
+</div>
 <h2>About</h2>
-  <p>I'm a paragraph in the about page.</p>
+<p>I'm a paragraph in the about page.</p>
+
+<script>
+txt='{"response":{"heading": "Heading text 1","introductionText": "Introduction text text 1","mainBody": "Main body text."}}'
+console.log(txt)
+document.addEventListener("DOMContentLoaded", function() {
+  var myObj = JSON.parse(txt);
+  document.getElementById('heading').innerHTML = myObj.response.heading;
+  document.getElementById('intro').innerHTML = myObj.response.introductionText;
+  document.getElementById('main').innerHTML = myObj.response.mainBody;
+});
+
+
+</script>
 </body>
 </html>
+
