@@ -1,4 +1,4 @@
-txt=/*<sl:translate_json>*/'{"sl_translate": "sl_all","response":{"heading": "Heading text rendered by a Javascript function.","introductionText": "This text is also rednered by Javascript but the client doesn\'t want this translated so thay must add markup to their HTML to do it. No rules/rewrites work here.","mainBody": "This is some more text, again added by Javascript."}}'/*</sl:translate_json>*/
+txt=/*<sl:translate_json>*/'{"sl_translate": "sl_all","response":{"heading": "New Heading text rendered by a Javascript function.","introductionText": "New This text is also rendered by Javascript but the client doesn\'t want this translated so thay must add markup to their HTML to do it. No rules/rewrites work here.","mainBody": "New This is some more text, again added by Javascript."}}'/*</sl:translate_json>*/
     console.log(txt)
     var myObj = JSON.parse(txt);
     function heading(){
