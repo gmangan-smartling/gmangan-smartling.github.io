@@ -1,0 +1,43 @@
+<html>
+<head>
+  <script>var slApiConfig={htmlTranslationMode:"react",uid:"49abf3cb5",locale:"fr-FR"};</script>
+  <script src="https://pinchjs-cdn.gdn.smartling.com/sl-tran-49abf3cb5-fr-FR.js"></script>
+  <script src="https://pinchjs-cdn.gdn.smartling.com/sl-init.js"></script>
+  
+  </head>
+  <body>
+  <div>
+    <h1 id="heading"></h1>
+    <p id="intro" translate="no"></p>
+    <p id="main"></p>
+    <p id="concat"></p>
+  </div>
+
+
+  <script>
+    txt='{"response":{"heading": "Heading text rendered by a Javascript function.","introductionText": "This text is also rednered by Javascript but the client doesn\'t want this translated so thay must add markup to their HTML to do it. No rules/rewrites work here.","mainBody": "This is some more text, again added by Javascript.","spanText":" wrap this in a span tag ","linkText":"link text ","spanTextEnd":" end wrap tag."}}'
+    console.log(txt)
+    var myObj = JSON.parse(txt);
+    function heading(){
+      document.getElementById('heading').innerHTML = myObj.response.heading;
+    }
+    function introText(){
+      document.getElementById('intro').innerHTML = myObj.response.introductionText
+    }
+    function mBody(){
+      document.getElementById('main').innerHTML = myObj.response.mainBody
+    }
+    function concatString(){
+      document.getElementById('concat').innerHTML = myObj.response.mainBody + "<span class=\"sl_nosplit\">" + myObj.response.spanText + "<a href=\"www.smartling.com\">" + myObj.response.linkText + "</a>" + myObj.response.spanTextEnd + "</span>"
+    }
+    document.addEventListener("DOMContentLoaded", function() {
+      const myTimeout = setTimeout(heading, 1000);
+      const myTimeout1 = setTimeout(introText, 2000);
+      const myTimeout2 = setTimeout(mBody, 3000);
+      const myTimeout3 = setTimeout(concatString, 1000);
+  });
+
+
+  </script>
+</body>
+</html>
