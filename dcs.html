@@ -11,6 +11,7 @@
     <p id="intro" translate="no"></p>
     <p id="main"></p>
     <p id="concat"></p>
+    <p id="concatagain"></p>
   </div>
 
 
@@ -30,11 +31,15 @@
     function concatString(){
       document.getElementById('concat').innerHTML = myObj.response.mainBody + "<span class=\"sl_nosplit\">" + myObj.response.spanText + "<a href=\"www.smartling.com\">" + myObj.response.linkText + "</a>" + myObj.response.spanTextEnd + "</span>"
     }
+    function concatStringAgain(){
+      document.getElementById('concat').innerHTML = myObj.response.introductionText + "<span>" + myObj.response.spanText + "<a href=\"www.smartling.com\">" + myObj.response.linkText + "</a>" + myObj.response.spanTextEnd + "</span>"
+    }
     document.addEventListener("DOMContentLoaded", function() {
       const myTimeout = setTimeout(heading, 1000);
-      const myTimeout1 = setTimeout(introText, 2000);
-      const myTimeout2 = setTimeout(mBody, 3000);
+      /*const myTimeout1 = setTimeout(introText, 2000);
+      const myTimeout2 = setTimeout(mBody, 3000);*/
       const myTimeout3 = setTimeout(concatString, 1000);
+      const myTimeout3 = setTimeout(concatStringAgain, 1000);
   });
 
 
