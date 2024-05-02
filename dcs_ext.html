@@ -1,0 +1,29 @@
+<html>
+<head>
+  <script type="text/javascript" src="dcs_example.js"></script>
+  
+  </head>
+  <body>
+  <div>
+    <h1 id="heading"></h1>
+    <p id="intro" translate="no"></p>
+    <p id="main"></p>
+    <p id="concat"></p>
+    <p id="concatagain"></p>
+    <p id="p_example"></p>
+  </div>
+
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const myTimeout = setTimeout(heading, 1000);
+      const myTimeout3 = setTimeout(concatString, 1000);
+      const myTimeout4 = setTimeout(concatStringAgain, 1000);
+      /*const myTimeout5 = setTimeout(concatStringSpan, 1500);*/
+      const myTimeout6 = setTimeout(concatStringP, 1500);
+  });
+
+
+  </script>
+</body>
+</html>
