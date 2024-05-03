@@ -21,5 +21,5 @@ function concatStringSpan(){
 document.getElementById('span_id').innerHTML = myObj.response.spanTextTwo + "<a href=\"www.smartling.com\">" + myObj.response.linkText + "</a>" + myObj.response.spanTextEnd
 }
 function concatStringP(){
-document.getElementById('p_example').innerHTML = myObj.response.mainBody + "<p class=\"sl_nosplit\">" + myObj.response.pText + "</p>"
+document.getElementById('p_example').innerHTML = myObj.response.mainBody + "<p slCompositeString=\"true\">" + myObj.response.pText + "</p>"
 }
