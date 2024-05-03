@@ -2,7 +2,7 @@ txt='{"response":{"comp_div": "Div text with slCompositeString attribute", "insi
 console.log(txt)
 var myObj = JSON.parse(txt);
 function compDiv(){
-document.getElementById('comp_div').innerHTML = myObj.response.comp_div + "<p>" + myObj.response.inside_comp + "</p>"
+document.getElementById('comp_div').innerHTML = myObj.response.comp_div + "<p slCompositeString=\"true\">" + myObj.response.inside_comp + "</p>"
 }
 function noCompDiv(){
 document.getElementById('no_comp_div').innerHTML = myObj.response.div_no_comp + "<p>" + myObj.response.p_no_comp + "</p>"
