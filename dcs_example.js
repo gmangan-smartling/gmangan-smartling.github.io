@@ -11,7 +11,7 @@ function mBody(){
 document.getElementById('main').innerHTML = myObj.response.mainBody
 }
 function concatString(){
-document.getElementById('concat').innerHTML = myObj.response.mainBody + "<span cslCompositeString=\"true\" class=\"test_comp\">" + myObj.response.spanText + "<a href=\"www.smartling.com\">" + myObj.response.linkText + "</a>" + myObj.response.spanTextEnd + "</span>"
+document.getElementById('concat').innerHTML = myObj.response.mainBody + "<span slCompositeString=\"true\" class=\"test_comp\">" + myObj.response.spanText + "<a href=\"www.smartling.com\">" + myObj.response.linkText + "</a>" + myObj.response.spanTextEnd + "</span>"
 }
 function concatStringAgain(){
 document.getElementById('concatagain').innerHTML = myObj.response.mainBody + "<span id=\"span_id\"></span>"
