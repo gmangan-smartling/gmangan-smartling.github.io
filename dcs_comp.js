@@ -1,4 +1,4 @@
-txt='{"response":{"comp_div": "Div text with slCompositeString attribute ", "inside_comp": " text for nested p tag in div with slCompositeString.", "div_no_comp": "This div has no attribute ", "p_no_comp": " and p tag is nested in a no comp div.", "div_create_node": "This div is created differently with a nested p tag created in JS ", "p_node_creation": "p tag from javascript only."}}'
+txt='{"response":{"comp_div": "Div text with slCompositeString attribute", "inside_comp": " text for nested p tag in div with slCompositeString.", "div_no_comp": "This div has no attribute", "p_no_comp": " and p tag is nested in a no comp div.", "div_create_node": "This div is created differently with a nested p tag created in JS ", "p_node_creation": "p tag from javascript only."}}'
 console.log(txt)
 var myObj = JSON.parse(txt);
 function compDiv(){
