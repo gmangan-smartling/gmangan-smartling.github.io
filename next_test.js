@@ -32,14 +32,14 @@ nxt.jsData = {
                 "contributor": "Contributor",
                 "total": "Total",
                 "sale": "Sale",
-                "hide": /*<sl:translate>*/
-                "ПРИХОВАТИ"/*</sl:translate>*/
+                "hide": 
+                "ПРИХОВАТИ"
                 ,
-                "show": /*<sl:translate>*/
-                "ПОКАЗАТИ"/*</sl:translate>*/
+                "show": 
+                "ПОКАЗАТИ"
                 ,
-                "size": /*<sl:translate>*/
-                "Розмір"/*</sl:translate>*/
+                "size": 
+                "Розмір"
                 ,
                 "remove": "Remove",
                 "feet": "Feet",
@@ -150,44 +150,44 @@ nxt.jsData = {
             "loginform": {
                 "header": "Forgotten your Password?",
                 "childsplayheader": "Forgotten your Childsplay Password",
-                "forgotpwdmessage": /*<sl:translate>*/
-                "Натисніть кнопку Скинути пароль нижче, щоб отримати новий пароль електронною поштою."/*</sl:translate>*/
+                "forgotpwdmessage": 
+                "Натисніть кнопку Скинути пароль нижче, щоб отримати новий пароль електронною поштою."
                 ,
-                "rememberemail": /*<sl:translate>*/
-                "Запам\'ятати електронну пошту"/*</sl:translate>*/
+                "rememberemail": 
+                "Запам\'ятати електронну пошту"
                 ,
                 "validation": {
-                    "username": /*<sl:translate>*/
-                    "Введіть дійсну адресу електронної пошти"/*</sl:translate>*/
+                    "username": 
+                    "Введіть дійсну адресу електронної пошти"
                     ,
-                    "usernameempty": /*<sl:translate>*/
-                    "Будь ласка, введіть свою адресу електронної пошти"/*</sl:translate>*/
+                    "usernameempty": 
+                    "Будь ласка, введіть свою адресу електронної пошти"
                     ,
-                    "password": /*<sl:translate>*/
-                    "[Thís~ válú~é ís t~óó sh~órt. Í~t shó~úld h~ávé 6 c~hárá~ctér~s ór m~óré.]"/*</sl:translate>*/
+                    "password": 
+                    "[Thís~ válú~é ís t~óó sh~órt. Í~t shó~úld h~ávé 6 c~hárá~ctér~s ór m~óré.]"
                     ,
-                    "passwordshort": /*<sl:translate>*/
-                    "[Thís~ válú~é ís t~óó sh~órt. Í~t shó~úld h~ávé 6 c~hárá~ctér~s ór m~óré.]"/*</sl:translate>*/
+                    "passwordshort": 
+                    "[Thís~ válú~é ís t~óó sh~órt. Í~t shó~úld h~ávé 6 c~hárá~ctér~s ór m~óré.]"
                 },
                 "banners": {
                     "invalidlogin": {
-                        "unabletosign": /*<sl:translate>*/
-                        "На жаль, вам не вдалося увійти до системи."/*</sl:translate>*/
+                        "unabletosign": 
+                        "На жаль, вам не вдалося увійти до системи."
                         ,
-                        "checkdetails": /*<sl:translate>*/
-                        "Перевірте, чи правильні дані для входу, і повторіть спробу."/*</sl:translate>*/
+                        "checkdetails": 
+                        "Перевірте, чи правильні дані для входу, і повторіть спробу."
                     }
                 }
             },
             "forgotpwdform": {
-                "description": /*<sl:translate>*/
-                "Натисніть кнопку Скинути пароль нижче, щоб отримати новий пароль електронною поштою."/*</sl:translate>*/
+                "description": 
+                "Натисніть кнопку Скинути пароль нижче, щоб отримати новий пароль електронною поштою."
                 ,
                 "emailplaceholder": "Email Address or Customer Number",
                 "validation": {
                     "emailempty": "Enter an Email Address",
-                    "emailmessage": /*<sl:translate>*/
-                    "Недійсна адреса електронної пошти"/*</sl:translate>*/
+                    "emailmessage": 
+                    "Недійсна адреса електронної пошти"
                 }
             },
             "resetpwdform": {
@@ -211,28 +211,28 @@ nxt.jsData = {
                 "trackingrefmessage": "Tracking Ref should be 16 digits long"
             },
             "productpage": {
-                "soldoutalternative": /*<sl:translate>*/
-                "Наразі недоступний"/*</sl:translate>*/
+                "soldoutalternative": 
+                "Наразі недоступний"
                 ,
                 "soldoutcisteligiblealternative": "Unavailable Online, Try Your Local Store",
-                "soldout": /*<sl:translate>*/
-                "Продано"/*</sl:translate>*/
+                "soldout": 
+                "Продано"
                 ,
                 "soldoutcisteligible": "Sold Out Online, Try Your Local Store",
-                "soldoutcistineligible": /*<sl:translate>*/
-                "Продано"/*</sl:translate>*/
+                "soldoutcistineligible": 
+                "Продано"
                 ,
                 "overridesoldoutsizetypes": "tall,",
                 "cistInvalidSoldOutSizeTypeText": "Unfortunately, products in '{0}' sizes are not stocked in store.",
-                "fit": /*<sl:translate>*/
-                "Відповідати"/*</sl:translate>*/
+                "fit": 
+                "Відповідати"
                 ,
                 "outofstockmessage": "This item is currently out of stock",
                 "outofstockmessagealternative": "This item is currently unavailable",
                 "comingsoonprefix": " - Coming soon - Due in ",
                 "added": "ADDED",
-                "addtobag": /*<sl:translate>*/
-                "ДОДАТИ В МІШОК"/*</sl:translate>*/
+                "addtobag": 
+                "ДОДАТИ В МІШОК"
                 ,
                 "addedmob": "Added",
                 "addtobagmob": "Add to bag",
@@ -240,8 +240,8 @@ nxt.jsData = {
                 "nosizemessage": "To continue, please complete your selection.",
                 "soldoutitemmessage": "Regrettably this item is currently unavailable.",
                 "jsonerror": "Sorry, additional colours/fits are currently unavailable. Please try again in a moment. ",
-                "overridedeliverymessage": /*<sl:translate>*/
-                "В наявності"/*</sl:translate>*/
+                "overridedeliverymessage": 
+                "В наявності"
                 ,
                 "cdttimer": "{0} hrs {1} mins {2} secs "
             },
@@ -259,14 +259,14 @@ nxt.jsData = {
                 "customitemviaproductpageonly": "Sorry, custom made items cannot be purchased through quickshop. Please navigate to the product page to customise your item and add to bag.",
                 "clicktoremoveitem": "Click to remove this item",
                 "comingsoonduein": "Coming soon - Due in ",
-                "soldout": /*<sl:translate>*/
-                "Продано"/*</sl:translate>*/
+                "soldout": 
+                "Продано"
                 ,
-                "soldoutalternative": /*<sl:translate>*/
-                "Наразі недоступний"/*</sl:translate>*/
+                "soldoutalternative": 
+                "Наразі недоступний"
                 ,
-                "instock": /*<sl:translate>*/
-                "В наявності"/*</sl:translate>*/
+                "instock": 
+                "В наявності"
                 ,
                 "lowinstock": "Low in Stock"
             },
@@ -322,14 +322,14 @@ nxt.jsData = {
                 "viewlessfilters": "View Less Filters"
             },
             "shoppingbagpage": {
-                "continueshopping": /*<sl:translate>*/
-                "Продовжити покупки"/*</sl:translate>*/
+                "continueshopping": 
+                "Продовжити покупки"
                 ,
-                "gocheckout": /*<sl:translate>*/
-                "Перейти до оформлення замовлення"/*</sl:translate>*/
+                "gocheckout": 
+                "Перейти до оформлення замовлення"
                 ,
-                "tpcheckout": /*<sl:translate>*/
-                "Оформлення замовлення"/*</sl:translate>*/
+                "tpcheckout": 
+                "Оформлення замовлення"
                 ,
                 "savetolist": "Save to List",
                 "shoppingbag": "Shopping Bag",
@@ -337,27 +337,27 @@ nxt.jsData = {
                 "subtitle": "You have {0} offers added to your bag"
             },
             "shoppingbagts": {
-                "checkout": /*<sl:translate>*/
-                "ОФОРМИТИ ЗАМОВЛЕННЯ"/*</sl:translate>*/
+                "checkout": 
+                "ОФОРМИТИ ЗАМОВЛЕННЯ"
                 ,
                 "emptybagtext": "Your Shopping Bag Is Empty",
                 "header": "Items In Your Bag",
                 "headingtextplural": "Items In Bag",
-                "headingtextsingular": /*<sl:translate>*/
-                "Предмет у мішку"/*</sl:translate>*/
+                "headingtextsingular": 
+                "Предмет у мішку"
                 ,
                 "messagebody": {
                     "#text": ["\r\n\t\t\t\tYou've got items in your", " bag from your last visit.\r\n\t\t\t"],
                     "br": null
                 },
-                "qty": /*<sl:translate>*/
-                "Кількість"/*</sl:translate>*/
+                "qty": 
+                "Кількість"
                 ,
                 "vieweditbag": "View/Edit Bag",
                 "viewlist": "View List",
                 "savetolist": "SAVE TO LIST",
-                "viewbag": /*<sl:translate>*/
-                "[Víéw~ Bág]"/*</sl:translate>*/
+                "viewbag": 
+                "[Víéw~ Bág]"
                 ,
                 "itemadded": "Item Added",
                 "item": "item",
@@ -404,24 +404,24 @@ nxt.jsData = {
                 "subtitle": "360° View"
             },
             "newslettersignup": {
-                "erroremailinvalid": /*<sl:translate>*/
-                "[Thís~ válú~é shó~úld b~é á vá~líd é~máíl~.]"/*</sl:translate>*/
+                "erroremailinvalid": 
+                "[Thís~ válú~é shó~úld b~é á vá~líd é~máíl~.]"
                 ,
                 "errornoemailinput": "Please enter an email address."
             },
             "mobile": {
                 "addedToBagSliderTs": {
-                    "itemAddedToBag": /*<sl:translate>*/
-                    "Товар, доданий в сумку"/*</sl:translate>*/
+                    "itemAddedToBag": 
+                    "Товар, доданий в сумку"
                     ,
-                    "size": /*<sl:translate>*/
-                    "Розмір"/*</sl:translate>*/
+                    "size": 
+                    "Розмір"
                     ,
-                    "viewBag": /*<sl:translate>*/
-                    "[Víéw~ Bág]"/*</sl:translate>*/
+                    "viewBag": 
+                    "[Víéw~ Bág]"
                     ,
-                    "checkout": /*<sl:translate>*/
-                    "Оформлення замовлення"/*</sl:translate>*/
+                    "checkout": 
+                    "Оформлення замовлення"
                     ,
                     "titleText": "Customers Also Bought\"",
                     "viewEdit": "View / Edit Bag",
@@ -442,8 +442,8 @@ nxt.jsData = {
                 "productpage": {
                     "errormessage": "There was a problem adding the item to your bag",
                     "duein": "Due in ",
-                    "choosesize": /*<sl:translate>*/
-                    "Обрати розмір"/*</sl:translate>*/
+                    "choosesize": 
+                    "Обрати розмір"
                     ,
                     "comingsoon": "Coming Soon",
                     "carewarning": "Care Instruction",
