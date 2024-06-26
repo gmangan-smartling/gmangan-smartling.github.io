@@ -1,0 +1,2628 @@
+{
+  "SEO": {
+    "Title": "  | Next Ukraine",
+    "Description": "  - Next Ukraine. International Shipping And Returns Available. Buy Now!",
+    "Robots": "",
+    "Keywords": "",
+    "NextPage": "/shop/gender-women-category-suitjackets-category-suittrousers/use-workwear-srt-24"
+  },
+  "Search": {
+    "SearchFilter": [
+      {
+        "Name": "New In",
+        "DisplayName": "New In",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "newin",
+            "Count": "10",
+            "Name": "New In",
+            "Url": "use-workwear_feat-newin"
+          }
+        ]
+      },
+      {
+        "Name": "In Stock",
+        "DisplayName": "In Stock",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "available",
+            "Count": "192",
+            "Name": "In Stock",
+            "Url": "use-workwear_feat-available"
+          }
+        ]
+      },
+      {
+        "Name": "gender",
+        "DisplayName": "gender",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "women",
+            "Count": "196",
+            "Selected": "true",
+            "Name": "Women",
+            "Url": "use-workwear"
+          },
+          {
+            "Value": "men",
+            "Count": "1515",
+            "Name": "Men",
+            "Url": "use-workwear_gender-men"
+          }
+        ]
+      },
+      {
+        "Name": "sizetype",
+        "DisplayName": "Size Type",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "curve",
+            "Count": "149",
+            "Name": "Curve",
+            "Url": "use-workwear_sizetype-curve"
+          },
+          {
+            "Value": "tall",
+            "Count": "96",
+            "Name": "Tall",
+            "Url": "use-workwear_sizetype-tall"
+          },
+          {
+            "Value": "petite",
+            "Count": "56",
+            "Name": "Petite",
+            "Url": "use-workwear_sizetype-petite"
+          },
+          {
+            "Value": "regular",
+            "Count": "49",
+            "Name": "Regular",
+            "Url": "use-workwear_sizetype-regular"
+          },
+          {
+            "Value": "wide",
+            "Count": "9",
+            "Name": "Wide",
+            "Url": "use-workwear_sizetype-wide"
+          },
+          {
+            "Value": "taperleg",
+            "Count": "2",
+            "Name": "Taper Leg",
+            "Url": "use-workwear_sizetype-taperleg"
+          },
+          {
+            "Value": "tailored",
+            "Count": "8",
+            "Name": "Tailored",
+            "Url": "use-workwear_sizetype-tailored"
+          },
+          {
+            "Value": "relaxed",
+            "Count": "2",
+            "Name": "Relaxed",
+            "Url": "use-workwear_sizetype-relaxed"
+          },
+          {
+            "Value": "oversize",
+            "Count": "1",
+            "Name": "Oversize",
+            "Url": "use-workwear_sizetype-oversize"
+          },
+          {
+            "Value": "slim",
+            "Count": "9",
+            "Name": "Slim",
+            "Url": "use-workwear_sizetype-slim"
+          },
+          {
+            "Value": "bootcut",
+            "Count": "1",
+            "Name": "Boot Cut",
+            "Url": "use-workwear_sizetype-bootcut"
+          },
+          {
+            "Value": "skinny",
+            "Count": "1",
+            "Name": "Skinny",
+            "Url": "use-workwear_sizetype-skinny"
+          },
+          {
+            "Value": "straight",
+            "Count": "1",
+            "Name": "Straight",
+            "Url": "use-workwear_sizetype-straight"
+          },
+          {
+            "Value": "wideleg",
+            "Count": "1",
+            "Name": "Wide Leg",
+            "Url": "use-workwear_sizetype-wideleg"
+          }
+        ]
+      },
+      {
+        "Name": "category",
+        "DisplayName": "category",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "suittrousers",
+            "Count": "111",
+            "Selected": "true",
+            "Name": "Suit Trousers",
+            "Url": "use-workwear"
+          },
+          {
+            "Value": "suitjackets",
+            "Count": "87",
+            "Selected": "true",
+            "Name": "Suit Jackets",
+            "Url": "use-workwear"
+          },
+          {
+            "Value": "blouses",
+            "Count": "1893",
+            "Name": "Blouses",
+            "Url": "use-workwear_category-blouses"
+          },
+          {
+            "Value": "shoes",
+            "Count": "1708",
+            "Name": "Shoes",
+            "Url": "use-workwear_category-shoes"
+          },
+          {
+            "Value": "jumpers",
+            "Count": "1058",
+            "Name": "Jumpers",
+            "Url": "use-workwear_category-jumpers"
+          },
+          {
+            "Value": "trousers",
+            "Count": "944",
+            "Name": "Trousers",
+            "Url": "use-workwear_category-trousers"
+          },
+          {
+            "Value": "shirts",
+            "Count": "865",
+            "Name": "Shirts",
+            "Url": "use-workwear_category-shirts"
+          },
+          {
+            "Value": "boots",
+            "Count": "836",
+            "Name": "Boots",
+            "Url": "use-workwear_category-boots"
+          },
+          {
+            "Value": "bags",
+            "Count": "666",
+            "Name": "Bags",
+            "Url": "use-workwear_category-bags"
+          },
+          {
+            "Value": "dresses",
+            "Count": "599",
+            "Name": "Dresses",
+            "Url": "use-workwear_category-dresses"
+          },
+          {
+            "Value": "jackets",
+            "Count": "457",
+            "Name": "Jackets",
+            "Url": "use-workwear_category-jackets"
+          },
+          {
+            "Value": "coats",
+            "Count": "430",
+            "Name": "Coats",
+            "Url": "use-workwear_category-coats"
+          },
+          {
+            "Value": "cardigans",
+            "Count": "387",
+            "Name": "Cardigans",
+            "Url": "use-workwear_category-cardigans"
+          },
+          {
+            "Value": "skirts",
+            "Count": "195",
+            "Name": "Skirts",
+            "Url": "use-workwear_category-skirts"
+          },
+          {
+            "Value": "sandals",
+            "Count": "175",
+            "Name": "Sandals",
+            "Url": "use-workwear_category-sandals"
+          },
+          {
+            "Value": "tshirts",
+            "Count": "111",
+            "Name": "T-Shirts",
+            "Url": "use-workwear_category-tshirts"
+          },
+          {
+            "Value": "jumpsuit",
+            "Count": "56",
+            "Name": "Jumpsuit",
+            "Url": "use-workwear_category-jumpsuit"
+          },
+          {
+            "Value": "vests",
+            "Count": "55",
+            "Name": "Vests",
+            "Url": "use-workwear_category-vests"
+          },
+          {
+            "Value": "belts",
+            "Count": "50",
+            "Name": "Belts",
+            "Url": "use-workwear_category-belts"
+          },
+          {
+            "Value": "tights",
+            "Count": "46",
+            "Name": "Tights",
+            "Url": "use-workwear_category-tights"
+          },
+          {
+            "Value": "tunics",
+            "Count": "38",
+            "Name": "Tunics",
+            "Url": "use-workwear_category-tunics"
+          },
+          {
+            "Value": "pumps",
+            "Count": "28",
+            "Name": "Pumps",
+            "Url": "use-workwear_category-pumps"
+          },
+          {
+            "Value": "socks",
+            "Count": "22",
+            "Name": "Socks",
+            "Url": "use-workwear_category-socks"
+          },
+          {
+            "Value": "waistcoats",
+            "Count": "20",
+            "Name": "Waistcoats",
+            "Url": "use-workwear_category-waistcoats"
+          },
+          {
+            "Value": "leggings",
+            "Count": "14",
+            "Name": "Leggings",
+            "Url": "use-workwear_category-leggings"
+          },
+          {
+            "Value": "trainers",
+            "Count": "10",
+            "Name": "Trainers",
+            "Url": "use-workwear_category-trainers"
+          },
+          {
+            "Value": "blazers",
+            "Count": "7",
+            "Name": "Blazers",
+            "Url": "use-workwear_category-blazers"
+          },
+          {
+            "Value": "bodies",
+            "Count": "7",
+            "Name": "Bodies",
+            "Url": "use-workwear_category-bodies"
+          },
+          {
+            "Value": "camisoles",
+            "Count": "6",
+            "Name": "Camisoles",
+            "Url": "use-workwear_category-camisoles"
+          },
+          {
+            "Value": "coverups",
+            "Count": "4",
+            "Name": "Cover Ups",
+            "Url": "use-workwear_category-coverups"
+          },
+          {
+            "Value": "tanktops",
+            "Count": "4",
+            "Name": "Tank Tops",
+            "Url": "use-workwear_category-tanktops"
+          },
+          {
+            "Value": "jeans",
+            "Count": "3",
+            "Name": "Jeans",
+            "Url": "use-workwear_category-jeans"
+          },
+          {
+            "Value": "suitskirts",
+            "Count": "3",
+            "Name": "Suit Skirts",
+            "Url": "use-workwear_category-suitskirts"
+          },
+          {
+            "Value": "boobtube",
+            "Count": "2",
+            "Name": "Boobtube",
+            "Url": "use-workwear_category-boobtube"
+          },
+          {
+            "Value": "joggers",
+            "Count": "2",
+            "Name": "Joggers",
+            "Url": "use-workwear_category-joggers"
+          },
+          {
+            "Value": "poloshirts",
+            "Count": "2",
+            "Name": "Polo Shirts",
+            "Url": "use-workwear_category-poloshirts"
+          },
+          {
+            "Value": "purses",
+            "Count": "2",
+            "Name": "Purses",
+            "Url": "use-workwear_category-purses"
+          },
+          {
+            "Value": "croptops",
+            "Count": "1",
+            "Name": "Crop Tops",
+            "Url": "use-workwear_category-croptops"
+          },
+          {
+            "Value": "earrings",
+            "Count": "1",
+            "Name": "Earrings",
+            "Url": "use-workwear_category-earrings"
+          },
+          {
+            "Value": "footballshirts",
+            "Count": "1",
+            "Name": "Football Shirts",
+            "Url": "use-workwear_category-footballshirts"
+          },
+          {
+            "Value": "jacketshirttrouserset",
+            "Count": "1",
+            "Name": "Jacket, Shirt, Trouser Set",
+            "Url": "use-workwear_category-jacketshirttrouserset"
+          },
+          {
+            "Value": "necklaces",
+            "Count": "1",
+            "Name": "Necklaces",
+            "Url": "use-workwear_category-necklaces"
+          },
+          {
+            "Value": "nighties",
+            "Count": "1",
+            "Name": "Nighties",
+            "Url": "use-workwear_category-nighties"
+          },
+          {
+            "Value": "sweattops",
+            "Count": "1",
+            "Name": "Sweat Tops",
+            "Url": "use-workwear_category-sweattops"
+          },
+          {
+            "Value": "umbrellas",
+            "Count": "1",
+            "Name": "Umbrellas",
+            "Url": "use-workwear_category-umbrellas"
+          }
+        ]
+      },
+      {
+        "Name": "brand",
+        "DisplayName": "Brand",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "next",
+            "Count": "104",
+            "Name": "Next",
+            "Url": "use-workwear_brand-next"
+          },
+          {
+            "Value": "loveroses",
+            "Count": "29",
+            "Name": "Love & Roses",
+            "Url": "use-workwear_brand-loveroses"
+          },
+          {
+            "Value": "sosandar",
+            "Count": "21",
+            "Name": "Sosandar",
+            "Url": "use-workwear_brand-sosandar"
+          },
+          {
+            "Value": "hush",
+            "Count": "12",
+            "Name": "Hush",
+            "Url": "use-workwear_brand-hush"
+          },
+          {
+            "Value": "allsaints",
+            "Count": "10",
+            "Name": "AllSaints",
+            "Url": "use-workwear_brand-allsaints"
+          },
+          {
+            "Value": "myleeneklass",
+            "Count": "4",
+            "Name": "Myleene Klass",
+            "Url": "use-workwear_brand-myleeneklass"
+          },
+          {
+            "Value": "florere",
+            "Count": "3",
+            "Name": "Florere",
+            "Url": "use-workwear_brand-florere"
+          },
+          {
+            "Value": "boss",
+            "Count": "2",
+            "Name": "Boss",
+            "Url": "use-workwear_brand-boss"
+          },
+          {
+            "Value": "jigsaw",
+            "Count": "2",
+            "Name": "Jigsaw",
+            "Url": "use-workwear_brand-jigsaw"
+          },
+          {
+            "Value": "phaseeight",
+            "Count": "2",
+            "Name": "Phase Eight",
+            "Url": "use-workwear_brand-phaseeight"
+          },
+          {
+            "Value": "anothersunday",
+            "Count": "1",
+            "Name": "Another Sunday",
+            "Url": "use-workwear_brand-anothersunday"
+          },
+          {
+            "Value": "bardot",
+            "Count": "1",
+            "Name": "Bardot",
+            "Url": "use-workwear_brand-bardot"
+          },
+          {
+            "Value": "forevernew",
+            "Count": "1",
+            "Name": "Forever New",
+            "Url": "use-workwear_brand-forevernew"
+          },
+          {
+            "Value": "goodamerican",
+            "Count": "1",
+            "Name": "Good American",
+            "Url": "use-workwear_brand-goodamerican"
+          },
+          {
+            "Value": "laurenralphlauren",
+            "Count": "1",
+            "Name": "Lauren Ralph Lauren",
+            "Url": "use-workwear_brand-laurenralphlauren"
+          },
+          {
+            "Value": "society8",
+            "Count": "1",
+            "Name": "Society 8",
+            "Url": "use-workwear_brand-society8"
+          },
+          {
+            "Value": "whitestuff",
+            "Count": "1",
+            "Name": "White Stuff",
+            "Url": "use-workwear_brand-whitestuff"
+          }
+        ]
+      },
+      {
+        "Name": "colour",
+        "DisplayName": "Colour",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "blue",
+            "Count": "48",
+            "Name": "Blue",
+            "Url": "use-workwear_colour-blue"
+          },
+          {
+            "Value": "white",
+            "Count": "19",
+            "Name": "White",
+            "Url": "use-workwear_colour-white"
+          },
+          {
+            "Value": "grey",
+            "Count": "16",
+            "Name": "Grey",
+            "Url": "use-workwear_colour-grey"
+          },
+          {
+            "Value": "pink",
+            "Count": "11",
+            "Name": "Pink",
+            "Url": "use-workwear_colour-pink"
+          },
+          {
+            "Value": "cream",
+            "Count": "8",
+            "Name": "Cream",
+            "Url": "use-workwear_colour-cream"
+          },
+          {
+            "Value": "natural",
+            "Count": "6",
+            "Name": "Natural",
+            "Url": "use-workwear_colour-natural"
+          },
+          {
+            "Value": "orange",
+            "Count": "4",
+            "Name": "Orange",
+            "Url": "use-workwear_colour-orange"
+          },
+          {
+            "Value": "brown",
+            "Count": "19",
+            "Name": "Brown",
+            "Url": "use-workwear_colour-brown"
+          },
+          {
+            "Value": "green",
+            "Count": "15",
+            "Name": "Green",
+            "Url": "use-workwear_colour-green"
+          },
+          {
+            "Value": "red",
+            "Count": "4",
+            "Name": "Red",
+            "Url": "use-workwear_colour-red"
+          },
+          {
+            "Value": "black",
+            "Count": "48",
+            "Name": "Black",
+            "Url": "use-workwear_colour-black"
+          },
+          {
+            "Value": "purple",
+            "Count": "3",
+            "Name": "Purple",
+            "Url": "use-workwear_colour-purple"
+          },
+          {
+            "Value": "yellow",
+            "Count": "2",
+            "Name": "Yellow",
+            "Url": "use-workwear_colour-yellow"
+          }
+        ]
+      },
+      {
+        "Name": "size",
+        "DisplayName": "size",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "40",
+            "Count": "161",
+            "Name": "40",
+            "Url": "use-workwear_size-40"
+          },
+          {
+            "Value": "42",
+            "Count": "159",
+            "Name": "42",
+            "Url": "use-workwear_size-42"
+          },
+          {
+            "Value": "46",
+            "Count": "144",
+            "Name": "46",
+            "Url": "use-workwear_size-46"
+          },
+          {
+            "Value": "38",
+            "Count": "158",
+            "Name": "38",
+            "Url": "use-workwear_size-38"
+          },
+          {
+            "Value": "44",
+            "Count": "157",
+            "Name": "44",
+            "Url": "use-workwear_size-44"
+          },
+          {
+            "Value": "48",
+            "Count": "132",
+            "Name": "48",
+            "Url": "use-workwear_size-48"
+          },
+          {
+            "Value": "36",
+            "Count": "143",
+            "Name": "36",
+            "Url": "use-workwear_size-36"
+          },
+          {
+            "Value": "34",
+            "Count": "103",
+            "Name": "34",
+            "Url": "use-workwear_size-34"
+          },
+          {
+            "Value": "52",
+            "Count": "64",
+            "Name": "52",
+            "Url": "use-workwear_size-52"
+          },
+          {
+            "Value": "50",
+            "Count": "74",
+            "Name": "50",
+            "Url": "use-workwear_size-50"
+          },
+          {
+            "Value": "44long",
+            "Count": "43",
+            "Name": "44 Long",
+            "Url": "use-workwear_size-44long"
+          },
+          {
+            "Value": "40long",
+            "Count": "39",
+            "Name": "40 Long",
+            "Url": "use-workwear_size-40long"
+          },
+          {
+            "Value": "38xltall",
+            "Count": "33",
+            "Name": "38 XL Tall",
+            "Url": "use-workwear_size-38xltall"
+          },
+          {
+            "Value": "40xltall",
+            "Count": "28",
+            "Name": "40 XL Tall",
+            "Url": "use-workwear_size-40xltall"
+          },
+          {
+            "Value": "46long",
+            "Count": "44",
+            "Name": "46 Long",
+            "Url": "use-workwear_size-46long"
+          },
+          {
+            "Value": "42long",
+            "Count": "43",
+            "Name": "42 Long",
+            "Url": "use-workwear_size-42long"
+          },
+          {
+            "Value": "38long",
+            "Count": "39",
+            "Name": "38 Long",
+            "Url": "use-workwear_size-38long"
+          },
+          {
+            "Value": "44xltall",
+            "Count": "35",
+            "Name": "44 XL Tall",
+            "Url": "use-workwear_size-44xltall"
+          },
+          {
+            "Value": "46tall",
+            "Count": "35",
+            "Name": "46 Tall",
+            "Url": "use-workwear_size-46tall"
+          },
+          {
+            "Value": "36long",
+            "Count": "34",
+            "Name": "36 Long",
+            "Url": "use-workwear_size-36long"
+          },
+          {
+            "Value": "46short",
+            "Count": "34",
+            "Name": "46 Short",
+            "Url": "use-workwear_size-46short"
+          },
+          {
+            "Value": "42xltall",
+            "Count": "33",
+            "Name": "42 XL Tall",
+            "Url": "use-workwear_size-42xltall"
+          },
+          {
+            "Value": "46xltall",
+            "Count": "26",
+            "Name": "46 XL Tall",
+            "Url": "use-workwear_size-46xltall"
+          },
+          {
+            "Value": "44short",
+            "Count": "37",
+            "Name": "44 Short",
+            "Url": "use-workwear_size-44short"
+          },
+          {
+            "Value": "44tall",
+            "Count": "34",
+            "Name": "44 Tall",
+            "Url": "use-workwear_size-44tall"
+          },
+          {
+            "Value": "42tall",
+            "Count": "31",
+            "Name": "42 Tall",
+            "Url": "use-workwear_size-42tall"
+          },
+          {
+            "Value": "40tall",
+            "Count": "26",
+            "Name": "40 Tall",
+            "Url": "use-workwear_size-40tall"
+          },
+          {
+            "Value": "48long",
+            "Count": "32",
+            "Name": "48 Long",
+            "Url": "use-workwear_size-48long"
+          },
+          {
+            "Value": "42short",
+            "Count": "29",
+            "Name": "42 Short",
+            "Url": "use-workwear_size-42short"
+          },
+          {
+            "Value": "48tall",
+            "Count": "27",
+            "Name": "48 Tall",
+            "Url": "use-workwear_size-48tall"
+          },
+          {
+            "Value": "40short",
+            "Count": "20",
+            "Name": "40 Short",
+            "Url": "use-workwear_size-40short"
+          },
+          {
+            "Value": "36xltall",
+            "Count": "16",
+            "Name": "36 XL Tall",
+            "Url": "use-workwear_size-36xltall"
+          },
+          {
+            "Value": "54",
+            "Count": "20",
+            "Name": "54",
+            "Url": "use-workwear_size-54"
+          },
+          {
+            "Value": "38short",
+            "Count": "10",
+            "Name": "38 Short",
+            "Url": "use-workwear_size-38short"
+          },
+          {
+            "Value": "34short",
+            "Count": "7",
+            "Name": "34 Short",
+            "Url": "use-workwear_size-34short"
+          },
+          {
+            "Value": "32",
+            "Count": "13",
+            "Name": "32",
+            "Url": "use-workwear_size-32"
+          },
+          {
+            "Value": "36short",
+            "Count": "9",
+            "Name": "36 Short",
+            "Url": "use-workwear_size-36short"
+          },
+          {
+            "Value": "36tall",
+            "Count": "2",
+            "Name": "36 Tall",
+            "Url": "use-workwear_size-36tall"
+          },
+          {
+            "Value": "38xxltall",
+            "Count": "8",
+            "Name": "38 XXL Tall",
+            "Url": "use-workwear_size-38xxltall"
+          },
+          {
+            "Value": "42xxltall",
+            "Count": "7",
+            "Name": "42 XXL Tall",
+            "Url": "use-workwear_size-42xxltall"
+          },
+          {
+            "Value": "45",
+            "Count": "6",
+            "Name": "45",
+            "Url": "use-workwear_size-45"
+          },
+          {
+            "Value": "40xxltall",
+            "Count": "5",
+            "Name": "40 XXL Tall",
+            "Url": "use-workwear_size-40xxltall"
+          },
+          {
+            "Value": "41",
+            "Count": "5",
+            "Name": "41",
+            "Url": "use-workwear_size-41"
+          },
+          {
+            "Value": "43",
+            "Count": "5",
+            "Name": "43",
+            "Url": "use-workwear_size-43"
+          },
+          {
+            "Value": "39",
+            "Count": "4",
+            "Name": "39",
+            "Url": "use-workwear_size-39"
+          },
+          {
+            "Value": "44xxltall",
+            "Count": "4",
+            "Name": "44 XXL Tall",
+            "Url": "use-workwear_size-44xxltall"
+          },
+          {
+            "Value": "46xxltall",
+            "Count": "4",
+            "Name": "46 XXL Tall",
+            "Url": "use-workwear_size-46xxltall"
+          },
+          {
+            "Value": "large",
+            "Count": "4",
+            "Name": "Large",
+            "Url": "use-workwear_size-large"
+          },
+          {
+            "Value": "medium",
+            "Count": "4",
+            "Name": "Medium",
+            "Url": "use-workwear_size-medium"
+          },
+          {
+            "Value": "small",
+            "Count": "4",
+            "Name": "Small",
+            "Url": "use-workwear_size-small"
+          },
+          {
+            "Value": "xlarge",
+            "Count": "4",
+            "Name": "X Large",
+            "Url": "use-workwear_size-xlarge"
+          },
+          {
+            "Value": "xsmall",
+            "Count": "4",
+            "Name": "X Small",
+            "Url": "use-workwear_size-xsmall"
+          },
+          {
+            "Value": "34long",
+            "Count": "2",
+            "Name": "34 Long",
+            "Url": "use-workwear_size-34long"
+          },
+          {
+            "Value": "34petite",
+            "Count": "1",
+            "Name": "34 Petite",
+            "Url": "use-workwear_size-34petite"
+          },
+          {
+            "Value": "36petite",
+            "Count": "1",
+            "Name": "36 Petite",
+            "Url": "use-workwear_size-36petite"
+          },
+          {
+            "Value": "38petite",
+            "Count": "1",
+            "Name": "38 Petite",
+            "Url": "use-workwear_size-38petite"
+          },
+          {
+            "Value": "40petite",
+            "Count": "1",
+            "Name": "40 Petite",
+            "Url": "use-workwear_size-40petite"
+          },
+          {
+            "Value": "42petite",
+            "Count": "1",
+            "Name": "42 Petite",
+            "Url": "use-workwear_size-42petite"
+          },
+          {
+            "Value": "44petite",
+            "Count": "1",
+            "Name": "44 Petite",
+            "Url": "use-workwear_size-44petite"
+          },
+          {
+            "Value": "46petite",
+            "Count": "1",
+            "Name": "46 Petite",
+            "Url": "use-workwear_size-46petite"
+          },
+          {
+            "Value": "48xxltall",
+            "Count": "1",
+            "Name": "48 XXL Tall",
+            "Url": "use-workwear_size-48xxltall"
+          }
+        ]
+      },
+      {
+        "Name": "use",
+        "DisplayName": "Use",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "workwear",
+            "Count": "196",
+            "Selected": "true",
+            "Name": "Workwear",
+            "Url": ""
+          },
+          {
+            "Value": "occasionwear",
+            "Count": "33",
+            "Name": "Occasionwear",
+            "Url": "use-workwear_use-occasionwear"
+          },
+          {
+            "Value": "casual",
+            "Count": "29",
+            "Name": "Casual",
+            "Url": "use-workwear_use-casual"
+          },
+          {
+            "Value": "smartcasual",
+            "Count": "18",
+            "Name": "Smart Casual",
+            "Url": "use-workwear_use-smartcasual"
+          },
+          {
+            "Value": "holiday",
+            "Count": "18",
+            "Name": "Holiday",
+            "Url": "use-workwear_use-holiday"
+          },
+          {
+            "Value": "formal",
+            "Count": "12",
+            "Name": "Formal",
+            "Url": "use-workwear_use-formal"
+          },
+          {
+            "Value": "partywear",
+            "Count": "7",
+            "Name": "Partywear",
+            "Url": "use-workwear_use-partywear"
+          },
+          {
+            "Value": "coord",
+            "Count": "4",
+            "Name": "Co - Ord",
+            "Url": "use-workwear_use-coord"
+          },
+          {
+            "Value": "weddingguest",
+            "Count": "4",
+            "Name": "Wedding Guest",
+            "Url": "use-workwear_use-weddingguest"
+          },
+          {
+            "Value": "bridal",
+            "Count": "2",
+            "Name": "Bridal",
+            "Url": "use-workwear_use-bridal"
+          },
+          {
+            "Value": "pageboy",
+            "Count": "1",
+            "Name": "Page Boy",
+            "Url": "use-workwear_use-pageboy"
+          },
+          {
+            "Value": "wedding",
+            "Count": "1",
+            "Name": "Wedding",
+            "Url": "use-workwear_use-wedding"
+          }
+        ]
+      },
+      {
+        "Name": "style",
+        "DisplayName": "Style",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "wideleg",
+            "Count": "69",
+            "Name": "Wide Leg",
+            "Url": "use-workwear_style-wideleg"
+          },
+          {
+            "Value": "blazer",
+            "Count": "81",
+            "Name": "Blazer",
+            "Url": "use-workwear_style-blazer"
+          },
+          {
+            "Value": "tailored",
+            "Count": "51",
+            "Name": "Tailored",
+            "Url": "use-workwear_style-tailored"
+          },
+          {
+            "Value": "coord",
+            "Count": "22",
+            "Name": "Co-Ord",
+            "Url": "use-workwear_style-coord"
+          },
+          {
+            "Value": "tapered",
+            "Count": "6",
+            "Name": "Tapered",
+            "Url": "use-workwear_style-tapered"
+          },
+          {
+            "Value": "doublebreasted",
+            "Count": "4",
+            "Name": "Double Breasted",
+            "Url": "use-workwear_style-doublebreasted"
+          },
+          {
+            "Value": "tuxedo",
+            "Count": "4",
+            "Name": "Tuxedo",
+            "Url": "use-workwear_style-tuxedo"
+          },
+          {
+            "Value": "chino",
+            "Count": "3",
+            "Name": "Chino",
+            "Url": "use-workwear_style-chino"
+          },
+          {
+            "Value": "denim",
+            "Count": "3",
+            "Name": "Denim",
+            "Url": "use-workwear_style-denim"
+          },
+          {
+            "Value": "belted",
+            "Count": "1",
+            "Name": "Belted",
+            "Url": "use-workwear_style-belted"
+          },
+          {
+            "Value": "cropped",
+            "Count": "1",
+            "Name": "Cropped",
+            "Url": "use-workwear_style-cropped"
+          },
+          {
+            "Value": "essentials",
+            "Count": "1",
+            "Name": "Essentials",
+            "Url": "use-workwear_style-essentials"
+          },
+          {
+            "Value": "premium",
+            "Count": "1",
+            "Name": "Premium",
+            "Url": "use-workwear_style-premium"
+          },
+          {
+            "Value": "smartcoat",
+            "Count": "1",
+            "Name": "Smart Coat",
+            "Url": "use-workwear_style-smartcoat"
+          }
+        ]
+      },
+      {
+        "Name": "price",
+        "DisplayName": "Price",
+        "BaseUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/",
+        "FilterOptions": [
+          {
+            "Value": "min",
+            "Name": "0"
+          },
+          {
+            "Value": "max",
+            "Name": "1882500"
+          }
+        ]
+      }
+    ],
+    "SearchConfig": {
+      "FreeTextSearchTerm": "",
+      "SearchTerm": "",
+      "ApiDomain": "http://sliapi-2.next.co.uk/search",
+      "SearchResultsPerPage": [
+        {
+          "Value": "24",
+          "Selected": "true",
+          "IsDefault": "true",
+          "DisplayName": "24"
+        }
+      ],
+      "SearchResultsSortBy": [
+        {
+          "Value": "score",
+          "DisplayName": "Most Relevant",
+          "ApiUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/use-workwear_isort-score"
+        },
+        {
+          "Value": "popular",
+          "DisplayName": "Most Popular",
+          "ApiUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/use-workwear_isort-popular"
+        },
+        {
+          "Value": "price",
+          "DisplayName": "Price: Low - High",
+          "ApiUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/use-workwear_isort-price"
+        },
+        {
+          "Value": "price rev",
+          "DisplayName": "Price: High - Low",
+          "ApiUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/use-workwear_isort-price%20rev"
+        },
+        {
+          "Value": "title",
+          "DisplayName": "Alphabetical",
+          "ApiUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/use-workwear_isort-title"
+        }
+      ],
+      "NextPage": {
+        "Url": "/shop/gender-women-category-suitjackets-category-suittrousers/use-workwear-srt-24",
+        "ApiUrl": "http://api-preprod.nextdirect.com/api/catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/use-workwear_srt-24"
+      },
+      "CurrentPage": {
+        "ApiUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/use-workwear"
+      },
+      "ClearedFiltersPage": {
+        "ApiUrl": "http://api-preprod.nextdirect.com/API/Catalogue/v3/ua/en-gb/category/gender-women_category-suitjackets_category-suittrousers/"
+      },
+      "PageIndex": "1",
+      "PageTotal": "9",
+      "Layout": "Portrait",
+      "TotalResults": "196",
+      "IsBrandedResults": false
+    },
+    "SearchResults": {
+      "BaseUrl": "http://api-preprod.nextdirect.com/api/catalogue/v3/ua/en-gb/content/",
+      "SearchImageBaseUrl": "http://cdn2.next.co.uk/COMMON/Items/Default/Default/ItemImages/searchAlt/224x336/",
+      "SearchImageHighResBaseUrl": "http://cdn2.next.co.uk/COMMON/Items/Default/Default/ItemImages/searchAlt/448/",
+      "SearchImageLowResBaseUrl": "http://cdn2.next.co.uk/COMMON/Items/Default/Default/ItemImages/searchAlt/160x240/",
+      "SwatchImageBaseUrl": "http://cdn2.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemSwatch/21x21/",
+      "SwatchImageHighResBaseUrl": "http://cdn2.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemSwatch/40x40/",
+      "StudioShotBaseUrl": "http://cdn2.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemSearch/",
+      "Items": [
+        {
+          "SearchPosition": "1",
+          "ItemNumber": "Q46324",
+          "SearchImage": "Q46324.jpg",
+          "SwatchImage": "Q46324.jpg",
+          "Url": "style/su117003#Q46324",
+          "Range": "",
+          "Name": "Orange Sleeveless Asymmetric Tailored Blazer",
+          "Brand": "Next",
+          "MinPrice": "1413",
+          "Price": "1413",
+          "Ratings": {
+            "AverageOverallRating": "4.5"
+          },
+          "Colour": "Orange",
+          "TallItemNumber": "1",
+          "ProductName": "Sleeveless Blazer",
+          "TPSearchDescription": "Next Orange Sleeveless Asymmetric Tailored Blazer",
+          "TPStyleDescription": "Next Sleeveless Asymmetric Tailored Blazer",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "2",
+          "ItemNumber": "Q67023",
+          "SearchImage": "Q67023.jpg",
+          "SwatchImage": "Q67023.jpg",
+          "Url": "style/su140522#Q67023",
+          "Range": "",
+          "Name": "Grey Premium Linen Wide Leg Trousers",
+          "Brand": "Next",
+          "MinPrice": "2221",
+          "Price": "2221",
+          "Ratings": {
+            "AverageOverallRating": ""
+          },
+          "Colour": "Grey",
+          "TallItemNumber": "1",
+          "ProductName": "",
+          "TPSearchDescription": "Next Grey Premium Linen Wide Leg Trousers",
+          "TPStyleDescription": "Next Premium Linen Wide Leg Trousers",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "3",
+          "ItemNumber": "Q67013",
+          "SearchImage": "Q67013.jpg",
+          "SwatchImage": "Q67013.jpg",
+          "Url": "style/su085407#Q67013",
+          "Range": "",
+          "Name": "Blue Double Breasted Tailored Blazer",
+          "Brand": "Next",
+          "MinPrice": "2423",
+          "Price": "2423",
+          "Ratings": {
+            "AverageOverallRating": ""
+          },
+          "Colour": "Blue",
+          "TallItemNumber": "1",
+          "Colours": [
+            {
+              "ItemNumber": "853349",
+              "SearchImage": "853349.jpg",
+              "SwatchImage": "853349.jpg",
+              "Url": "style/su085407/853349#853349",
+              "Name": "Ecru Double Breasted Tailored Blazer",
+              "MinPrice": "2423",
+              "Price": "2423",
+              "Colour": "Ecru",
+              "PetiteItemNumber": "523809",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next Ecru Double Breasted Tailored Blazer",
+              "TPStyleDescription": "Next Double Breasted Tailored Blazer",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "4.5"
+              }
+            }
+          ],
+          "ProductName": "Rochelle Blazer",
+          "TPSearchDescription": "Next Blue Double Breasted Tailored Blazer",
+          "TPStyleDescription": "Next Double Breasted Tailored Blazer",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "4",
+          "ItemNumber": "853349",
+          "SearchImage": "853349.jpg",
+          "SwatchImage": "853349.jpg",
+          "Url": "style/su085407/853349#853349",
+          "Range": "",
+          "Name": "Ecru Double Breasted Tailored Blazer",
+          "Brand": "Next",
+          "MinPrice": "2423",
+          "Price": "2423",
+          "Ratings": {
+            "AverageOverallRating": "4.5"
+          },
+          "Colour": "Ecru",
+          "PetiteItemNumber": "523809",
+          "TallItemNumber": "1",
+          "Colours": [
+            {
+              "ItemNumber": "Q67013",
+              "SearchImage": "Q67013.jpg",
+              "SwatchImage": "Q67013.jpg",
+              "Url": "style/su085407#Q67013",
+              "Name": "Blue Double Breasted Tailored Blazer",
+              "MinPrice": "2423",
+              "Price": "2423",
+              "Colour": "Blue",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next Blue Double Breasted Tailored Blazer",
+              "TPStyleDescription": "Next Double Breasted Tailored Blazer",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            }
+          ],
+          "ProductName": "Rochelle Blazer",
+          "TPSearchDescription": "Next Ecru Double Breasted Tailored Blazer",
+          "TPStyleDescription": "Next Double Breasted Tailored Blazer",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "5",
+          "ItemNumber": "Q46131",
+          "SearchImage": "Q46131.jpg",
+          "SwatchImage": "Q46131.jpg",
+          "Url": "style/su090703/q46131#q46131",
+          "Range": "",
+          "Name": "Orange Elasticated Back Wide Leg Trousers",
+          "Brand": "Next",
+          "MinPrice": "1144",
+          "Price": "1144",
+          "Ratings": {
+            "AverageOverallRating": "5"
+          },
+          "Colour": "Orange",
+          "TallItemNumber": "1",
+          "Colours": [
+            {
+              "ItemNumber": "N58550",
+              "SearchImage": "N58550.jpg",
+              "SwatchImage": "N58550.jpg",
+              "Url": "style/su090703/n58550#n58550",
+              "Name": "Black Elasticated Back Wide Leg Trousers",
+              "MinPrice": "1144",
+              "Price": "1144",
+              "Colour": "Black",
+              "PetiteItemNumber": "Q74870",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next Black Elasticated Back Wide Leg Trousers",
+              "TPStyleDescription": "Next Elasticated Back Wide Leg Trousers",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "3.5"
+              }
+            }
+          ],
+          "ProductName": "Wide leg Trouser",
+          "TPSearchDescription": "Next Orange Elasticated Back Wide Leg Trousers",
+          "TPStyleDescription": "Next Elasticated Back Wide Leg Trousers",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "6",
+          "ItemNumber": "Q84348",
+          "SearchImage": "Q84348.jpg",
+          "SwatchImage": "Q84348.jpg",
+          "Url": "style/ls418961#Q84348",
+          "Range": "",
+          "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+          "Brand": "Love & Roses",
+          "MinPrice": "2403",
+          "Price": "2403",
+          "Ratings": {
+            "AverageOverallRating": "2"
+          },
+          "Colour": "Ivory White Pinstripe",
+          "Colours": [
+            {
+              "ItemNumber": "Q84319",
+              "SearchImage": "Q84319.jpg",
+              "SwatchImage": "Q84319.jpg",
+              "Url": "style/ls418961#Q84319",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2289",
+              "Price": "2289",
+              "Colour": "Pink Stripe",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "Q84324",
+              "SearchImage": "Q84324.jpg",
+              "SwatchImage": "Q84324.jpg",
+              "Url": "style/ls418961#Q84324",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2231",
+              "Price": "2231",
+              "Colour": "Green",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "Q84355",
+              "SearchImage": "Q84355.jpg",
+              "SwatchImage": "Q84355.jpg",
+              "Url": "style/ls418961#Q84355",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2231",
+              "Price": "2231",
+              "Colour": "Ivory White",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "Q84371",
+              "SearchImage": "Q84371.jpg",
+              "SwatchImage": "Q84371.jpg",
+              "Url": "style/ls418961#Q84371",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2231",
+              "Price": "2231",
+              "Colour": "Navy Blue",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "Q84372",
+              "SearchImage": "Q84372.jpg",
+              "SwatchImage": "Q84372.jpg",
+              "Url": "style/ls418961#Q84372",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2231",
+              "Price": "2231",
+              "Colour": "Blue",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            }
+          ],
+          "ProductName": "",
+          "TPSearchDescription": "",
+          "TPStyleDescription": "",
+          "Department": "Menswear",
+          "ItemFit": "Wide Leg",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "7",
+          "ItemNumber": "Q46328",
+          "SearchImage": "Q46328.jpg",
+          "SwatchImage": "Q46328.jpg",
+          "Url": "style/su221792/q46328#q46328",
+          "Range": "",
+          "Name": "Navy Blue Elasticated Back Wide Leg Trousers",
+          "Brand": "Next",
+          "MinPrice": "1144",
+          "Price": "1144",
+          "Ratings": {
+            "AverageOverallRating": "4"
+          },
+          "Colour": "Navy Blue",
+          "TallItemNumber": "1",
+          "ProductName": "Wide leg Trouser",
+          "TPSearchDescription": "Next Navy Blue Elasticated Back Wide Leg Trousers",
+          "TPStyleDescription": "Next Elasticated Back Wide Leg Trousers",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "8",
+          "ItemNumber": "Q49499",
+          "SearchImage": "Q49499.jpg",
+          "SwatchImage": "Q49499.jpg",
+          "Url": "style/ls350492#Q49499",
+          "Range": "",
+          "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+          "Brand": "Love & Roses",
+          "MinPrice": "2289",
+          "Price": "2289",
+          "Ratings": {
+            "AverageOverallRating": "3.5"
+          },
+          "Colour": "Ivory White",
+          "Colours": [
+            {
+              "ItemNumber": "K35728",
+              "SearchImage": "K35728.jpg",
+              "SwatchImage": "K35728.jpg",
+              "Url": "style/ls350492#K35728",
+              "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+              "MinPrice": "2289",
+              "Price": "2289",
+              "Colour": "Black",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "4.5"
+              }
+            },
+            {
+              "ItemNumber": "K46641",
+              "SearchImage": "K46641.jpg",
+              "SwatchImage": "K46641.jpg",
+              "Url": "style/ls350492#K46641",
+              "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+              "MinPrice": "2403",
+              "Price": "2403",
+              "Colour": "Black Belted",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "K46639",
+              "SearchImage": "K46639.jpg",
+              "SwatchImage": "K46639.jpg",
+              "Url": "style/ls350492#K46639",
+              "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+              "MinPrice": "2289",
+              "Price": "2289",
+              "Colour": "Navy Blue PU Trim",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "3"
+              }
+            },
+            {
+              "ItemNumber": "Q35945",
+              "SearchImage": "Q35945.jpg",
+              "SwatchImage": "Q35945.jpg",
+              "Url": "style/ls350492#Q35945",
+              "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+              "MinPrice": "2289",
+              "Price": "2289",
+              "Colour": "Navy Blue",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "4"
+              }
+            },
+            {
+              "ItemNumber": "K46637",
+              "SearchImage": "K46637.jpg",
+              "SwatchImage": "K46637.jpg",
+              "Url": "style/ls350492#K46637",
+              "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+              "MinPrice": "2289",
+              "Price": "2289",
+              "Colour": "Black PU Trim",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "3"
+              }
+            },
+            {
+              "ItemNumber": "Q35944",
+              "SearchImage": "Q35944.jpg",
+              "SwatchImage": "Q35944.jpg",
+              "Url": "style/ls350492#Q35944",
+              "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+              "MinPrice": "2289",
+              "Price": "2289",
+              "Colour": "Grey Tab",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "2.5"
+              }
+            },
+            {
+              "ItemNumber": "Q84333",
+              "SearchImage": "Q84333.jpg",
+              "SwatchImage": "Q84333.jpg",
+              "Url": "style/ls350492#Q84333",
+              "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+              "MinPrice": "2289",
+              "Price": "2289",
+              "Colour": "Camel",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "5"
+              }
+            },
+            {
+              "ItemNumber": "Q84343",
+              "SearchImage": "Q84343.jpg",
+              "SwatchImage": "Q84343.jpg",
+              "Url": "style/ls350492#Q84343",
+              "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+              "MinPrice": "2289",
+              "Price": "2289",
+              "Colour": "Green",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "5"
+              }
+            },
+            {
+              "ItemNumber": "184126",
+              "SearchImage": "184126.jpg",
+              "SwatchImage": "184126.jpg",
+              "Url": "style/ls350492#184126",
+              "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+              "MinPrice": "2403",
+              "Price": "2403",
+              "Colour": "Blue Tencel",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "3.5"
+              }
+            }
+          ],
+          "ProductName": "",
+          "TPSearchDescription": "",
+          "TPStyleDescription": "",
+          "Department": "Menswear",
+          "ItemFit": "",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "9",
+          "ItemNumber": "Q67001",
+          "SearchImage": "Q67001.jpg",
+          "SwatchImage": "Q67001.jpg",
+          "Url": "style/su140520#Q67001",
+          "Range": "",
+          "Name": "Grey Linen Single Breasted Blazer",
+          "Brand": "Next",
+          "MinPrice": "3331",
+          "Price": "3331",
+          "Ratings": {
+            "AverageOverallRating": "5"
+          },
+          "Colour": "Grey",
+          "TallItemNumber": "1",
+          "ProductName": "",
+          "TPSearchDescription": "Next Grey Linen Single Breasted Blazer",
+          "TPStyleDescription": "Next Linen Single Breasted Blazer",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "10",
+          "ItemNumber": "Q72087",
+          "SearchImage": "Q72087.jpg",
+          "SwatchImage": "Q72087.jpg",
+          "Url": "style/su151201/q72087#q72087",
+          "Range": "",
+          "Name": "Neutral Asymetric Waistband Tailored Wide Leg Trousers",
+          "Brand": "Next",
+          "MinPrice": "1178",
+          "Price": "1178",
+          "Ratings": {
+            "AverageOverallRating": ""
+          },
+          "Colour": "Neutral",
+          "PetiteItemNumber": "Q73965",
+          "TallItemNumber": "1",
+          "ProductName": "",
+          "TPSearchDescription": "Next Neutral Asymetric Waistband Tailored Wide Leg Trousers",
+          "TPStyleDescription": "Next Asymetric Waistband Tailored Wide Leg Trousers",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "11",
+          "ItemNumber": "Q67029",
+          "SearchImage": "Q67029.jpg",
+          "SwatchImage": "Q67029.jpg",
+          "Url": "style/su140530#Q67029",
+          "Range": "",
+          "Name": "Navy Linen Striped Sleeveless Double Breasted Blazer",
+          "Brand": "Next",
+          "MinPrice": "1817",
+          "Price": "1817",
+          "Ratings": {
+            "AverageOverallRating": "5"
+          },
+          "Colour": "Navy",
+          "TallItemNumber": "1",
+          "ProductName": "",
+          "TPSearchDescription": "Next Navy Linen Striped Sleeveless Double Breasted Blazer",
+          "TPStyleDescription": "Next Linen Striped Sleeveless Double Breasted Blazer",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "12",
+          "ItemNumber": "Q67017",
+          "SearchImage": "Q67017.jpg",
+          "SwatchImage": "Q67017.jpg",
+          "Url": "style/su140529#Q67017",
+          "Range": "",
+          "Name": "Navy Linen Striped Tapered Trousers",
+          "Brand": "Next",
+          "MinPrice": "1009",
+          "Price": "1009",
+          "Ratings": {
+            "AverageOverallRating": "5"
+          },
+          "Colour": "Navy",
+          "TallItemNumber": "1",
+          "ProductName": "",
+          "TPSearchDescription": "Next Navy Linen Striped Tapered Trousers",
+          "TPStyleDescription": "Next Linen Striped Tapered Trousers",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "13",
+          "ItemNumber": "Q84330",
+          "SearchImage": "Q84330.jpg",
+          "SwatchImage": "Q84330.jpg",
+          "Url": "style/ls418961#Q84330",
+          "Range": "",
+          "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+          "Brand": "Love & Roses",
+          "MinPrice": "2231",
+          "Price": "2231",
+          "Ratings": {
+            "AverageOverallRating": ""
+          },
+          "Colour": "Navy Blue",
+          "Colours": [
+            {
+              "ItemNumber": "Q84329",
+              "SearchImage": "Q84329.jpg",
+              "SwatchImage": "Q84329.jpg",
+              "Url": "style/ls418961#Q84329",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2403",
+              "Price": "2403",
+              "Colour": "Ivory White",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "Q84335",
+              "SearchImage": "Q84335.jpg",
+              "SwatchImage": "Q84335.jpg",
+              "Url": "style/ls418961#Q84335",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2231",
+              "Price": "2231",
+              "Colour": "Blue",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            }
+          ],
+          "ProductName": "",
+          "TPSearchDescription": "",
+          "TPStyleDescription": "",
+          "Department": "Menswear",
+          "ItemFit": "Petite",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "14",
+          "ItemNumber": "698001",
+          "SearchImage": "698001.jpg",
+          "SwatchImage": "698001.jpg",
+          "Url": "style/st877110#698001",
+          "Range": "",
+          "Name": "Navy Blue Heavy Duty Tailored Blazer",
+          "Brand": "Next",
+          "MinPrice": "2322",
+          "Price": "2322",
+          "Ratings": {
+            "AverageOverallRating": "4.5"
+          },
+          "Colour": "Navy Blue",
+          "TallItemNumber": "1",
+          "Colours": [
+            {
+              "ItemNumber": "534413",
+              "SearchImage": "534413.jpg",
+              "SwatchImage": "534413.jpg",
+              "Url": "style/st877110#534413",
+              "Name": "Grey Heavy Duty Tailored Blazer",
+              "MinPrice": "2322",
+              "Price": "2322",
+              "Colour": "Grey",
+              "Range": "",
+              "TPSearchDescription": "Next Grey Heavy Duty Tailored Blazer",
+              "TPStyleDescription": "Next Heavy Duty Tailored Blazer",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            }
+          ],
+          "ProductName": "Heavy Duty Blazer",
+          "TPSearchDescription": "Next Navy Blue Heavy Duty Tailored Blazer",
+          "TPStyleDescription": "Next Heavy Duty Tailored Blazer",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "15",
+          "ItemNumber": "Q84355",
+          "SearchImage": "Q84355.jpg",
+          "SwatchImage": "Q84355.jpg",
+          "Url": "style/ls418961#Q84355",
+          "Range": "",
+          "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+          "Brand": "Love & Roses",
+          "MinPrice": "2231",
+          "Price": "2231",
+          "Ratings": {
+            "AverageOverallRating": ""
+          },
+          "Colour": "Ivory White",
+          "Colours": [
+            {
+              "ItemNumber": "Q84348",
+              "SearchImage": "Q84348.jpg",
+              "SwatchImage": "Q84348.jpg",
+              "Url": "style/ls418961#Q84348",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2403",
+              "Price": "2403",
+              "Colour": "Ivory White Pinstripe",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "2"
+              }
+            },
+            {
+              "ItemNumber": "Q84319",
+              "SearchImage": "Q84319.jpg",
+              "SwatchImage": "Q84319.jpg",
+              "Url": "style/ls418961#Q84319",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2289",
+              "Price": "2289",
+              "Colour": "Pink Stripe",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "Q84324",
+              "SearchImage": "Q84324.jpg",
+              "SwatchImage": "Q84324.jpg",
+              "Url": "style/ls418961#Q84324",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2231",
+              "Price": "2231",
+              "Colour": "Green",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "Q84371",
+              "SearchImage": "Q84371.jpg",
+              "SwatchImage": "Q84371.jpg",
+              "Url": "style/ls418961#Q84371",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2231",
+              "Price": "2231",
+              "Colour": "Navy Blue",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "Q84372",
+              "SearchImage": "Q84372.jpg",
+              "SwatchImage": "Q84372.jpg",
+              "Url": "style/ls418961#Q84372",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2231",
+              "Price": "2231",
+              "Colour": "Blue",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            }
+          ],
+          "ProductName": "",
+          "TPSearchDescription": "",
+          "TPStyleDescription": "",
+          "Department": "Menswear",
+          "ItemFit": "Wide Leg",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "16",
+          "ItemNumber": "Q84329",
+          "SearchImage": "Q84329.jpg",
+          "SwatchImage": "Q84329.jpg",
+          "Url": "style/ls418961#Q84329",
+          "Range": "",
+          "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+          "Brand": "Love & Roses",
+          "MinPrice": "2403",
+          "Price": "2403",
+          "Ratings": {
+            "AverageOverallRating": ""
+          },
+          "Colour": "Ivory White",
+          "Colours": [
+            {
+              "ItemNumber": "Q84330",
+              "SearchImage": "Q84330.jpg",
+              "SwatchImage": "Q84330.jpg",
+              "Url": "style/ls418961#Q84330",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2231",
+              "Price": "2231",
+              "Colour": "Navy Blue",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "Q84335",
+              "SearchImage": "Q84335.jpg",
+              "SwatchImage": "Q84335.jpg",
+              "Url": "style/ls418961#Q84335",
+              "Name": "Love & Roses Tailored Wide Leg Trousers With Linen",
+              "MinPrice": "2231",
+              "Price": "2231",
+              "Colour": "Blue",
+              "Range": "",
+              "TPSearchDescription": "",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            }
+          ],
+          "ProductName": "",
+          "TPSearchDescription": "",
+          "TPStyleDescription": "",
+          "Department": "Menswear",
+          "ItemFit": "Petite",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "17",
+          "ItemNumber": "Q84332",
+          "SearchImage": "Q84332.jpg",
+          "SwatchImage": "Q84332.jpg",
+          "Url": "style/ls441785#Q84332",
+          "Range": "",
+          "Name": "Love & Roses High Waist Wide Leg Tailored Trousers",
+          "Brand": "Love & Roses",
+          "MinPrice": "2289",
+          "Price": "2289",
+          "Ratings": {
+            "AverageOverallRating": "5"
+          },
+          "Colour": "Camel",
+          "ProductName": "",
+          "TPSearchDescription": "",
+          "TPStyleDescription": "",
+          "Department": "Menswear",
+          "ItemFit": "Petite",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "18",
+          "ItemNumber": "247813",
+          "SearchImage": "247813.jpg",
+          "SwatchImage": "247813.jpg",
+          "Url": "style/su041358#247813",
+          "Range": "",
+          "Name": "Pink Linen Blazer",
+          "Brand": "Next",
+          "MinPrice": "1548",
+          "Price": "1548",
+          "Ratings": {
+            "AverageOverallRating": "4"
+          },
+          "Colour": "Pink",
+          "PetiteItemNumber": "785418",
+          "TallItemNumber": "1",
+          "Colours": [
+            {
+              "ItemNumber": "696305",
+              "SearchImage": "696305.jpg",
+              "SwatchImage": "696305.jpg",
+              "Url": "style/su041358/696305#696305",
+              "Name": "Red Linen Blazer",
+              "MinPrice": "1548",
+              "Price": "1548",
+              "Colour": "Red",
+              "PetiteItemNumber": "876287",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next Red Linen Blazer",
+              "TPStyleDescription": "Next Linen Blazer",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "5"
+              }
+            },
+            {
+              "ItemNumber": "747561",
+              "SearchImage": "747561.jpg",
+              "SwatchImage": "747561.jpg",
+              "Url": "style/su041358#747561",
+              "Name": "Lilac Purple Linen Blazer",
+              "MinPrice": "1548",
+              "Price": "1548",
+              "Colour": "Lilac Purple",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next Lilac Purple Linen Blazer",
+              "TPStyleDescription": "Next Linen Blazer",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            },
+            {
+              "ItemNumber": "K91450",
+              "SearchImage": "K91450.jpg",
+              "SwatchImage": "K91450.jpg",
+              "Url": "style/su041358#K91450",
+              "Name": "White Linen Blazer",
+              "MinPrice": "1548",
+              "Price": "1548",
+              "Colour": "White",
+              "PetiteItemNumber": "K77835",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next White Linen Blazer",
+              "TPStyleDescription": "Next Linen Blazer",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            }
+          ],
+          "ProductName": "Linen Blazer",
+          "TPSearchDescription": "Next Pink Linen Blazer",
+          "TPStyleDescription": "Next Linen Blazer",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "19",
+          "ItemNumber": "229752",
+          "SearchImage": "229752.jpg",
+          "SwatchImage": "229752.jpg",
+          "Url": "style/su041359#229752",
+          "Range": "",
+          "Name": "Pink Linen Tapered Leg Trousers",
+          "Brand": "Next",
+          "MinPrice": "841",
+          "Price": "841",
+          "Ratings": {
+            "AverageOverallRating": "3.5"
+          },
+          "Colour": "Pink",
+          "PetiteItemNumber": "788230",
+          "TallItemNumber": "1",
+          "Colours": [
+            {
+              "ItemNumber": "493161",
+              "SearchImage": "493161.jpg",
+              "SwatchImage": "493161.jpg",
+              "Url": "style/su041359#493161",
+              "Name": "Lilac Purple Linen Tapered Leg Trousers",
+              "MinPrice": "841",
+              "Price": "841",
+              "Colour": "Lilac Purple",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next Lilac Purple Linen Tapered Leg Trousers",
+              "TPStyleDescription": "Next Linen Tapered Leg Trousers",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            }
+          ],
+          "ProductName": "",
+          "TPSearchDescription": "Next Pink Linen Tapered Leg Trousers",
+          "TPStyleDescription": "Next Linen Tapered Leg Trousers",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "20",
+          "ItemNumber": "259183",
+          "SearchImage": "259183.jpg",
+          "SwatchImage": "259183.jpg",
+          "Url": "style/su041361/259183#259183",
+          "Range": "",
+          "Name": "Khaki Green Textured Linen Blazer",
+          "Brand": "Next",
+          "MinPrice": "1682",
+          "Price": "1682",
+          "Ratings": {
+            "AverageOverallRating": "4"
+          },
+          "Colour": "Khaki Green",
+          "PetiteItemNumber": "365867",
+          "TallItemNumber": "1",
+          "Colours": [
+            {
+              "ItemNumber": "191902",
+              "SearchImage": "191902.jpg",
+              "SwatchImage": "191902.jpg",
+              "Url": "style/su041361/191902#191902",
+              "Name": "Blue Textured Linen Blazer",
+              "MinPrice": "1682",
+              "Price": "1682",
+              "Colour": "Blue",
+              "PetiteItemNumber": "946131",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next Blue Textured Linen Blazer",
+              "TPStyleDescription": "Next Textured Linen Blazer",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "4.5"
+              }
+            }
+          ],
+          "ProductName": "Linen Blazer",
+          "TPSearchDescription": "Next Khaki Green Textured Linen Blazer",
+          "TPStyleDescription": "Next Textured Linen Blazer",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "21",
+          "ItemNumber": "223040",
+          "SearchImage": "223040.jpg",
+          "SwatchImage": "223040.jpg",
+          "Url": "style/su041357/223040#223040",
+          "Range": "",
+          "Name": "Red Linen Wide Leg Trousers",
+          "Brand": "Next",
+          "MinPrice": "875",
+          "Price": "875",
+          "Ratings": {
+            "AverageOverallRating": "5"
+          },
+          "Colour": "Red",
+          "PetiteItemNumber": "949539",
+          "TallItemNumber": "1",
+          "ProductName": "Linen Wide Trousers",
+          "TPSearchDescription": "Next Red Linen Wide Leg Trousers",
+          "TPStyleDescription": "Next Linen Wide Leg Trousers",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "22",
+          "ItemNumber": "U57878",
+          "SearchImage": "U57878.jpg",
+          "SwatchImage": "U57878.jpg",
+          "Url": "style/st166086/u57878#u57878",
+          "Range": "",
+          "Name": "Navy Blue Tailored Single Breasted Jacket",
+          "Brand": "Next",
+          "MinPrice": "1750",
+          "Price": "1750",
+          "Ratings": {
+            "AverageOverallRating": "4.5"
+          },
+          "Colour": "Navy Blue",
+          "PetiteItemNumber": "U68669",
+          "TallItemNumber": "1",
+          "Colours": [
+            {
+              "ItemNumber": "U57872",
+              "SearchImage": "U57872.jpg",
+              "SwatchImage": "U57872.jpg",
+              "Url": "style/st166086#U57872",
+              "Name": "Black Tailored Single Breasted Jacket",
+              "MinPrice": "1750",
+              "Price": "1750",
+              "Colour": "Black",
+              "PetiteItemNumber": "C95415",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next Black Tailored Single Breasted Jacket",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "4.5"
+              }
+            },
+            {
+              "ItemNumber": "U57964",
+              "SearchImage": "U57964.jpg",
+              "SwatchImage": "U57964.jpg",
+              "Url": "style/st166086/u57964#u57964",
+              "Name": "Grey Tailored Single Breasted Jacket",
+              "MinPrice": "1750",
+              "Price": "1750",
+              "Colour": "Grey",
+              "PetiteItemNumber": "U68667",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next Grey Tailored Single Breasted Jacket",
+              "TPStyleDescription": "",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": "4.5"
+              }
+            }
+          ],
+          "ProductName": "Tailored Jacket",
+          "TPSearchDescription": "Next Navy Blue Tailored Single Breasted Jacket",
+          "TPStyleDescription": "",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "23",
+          "ItemNumber": "413058",
+          "SearchImage": "413058.jpg",
+          "SwatchImage": "413058.jpg",
+          "Url": "style/su170259/413058#413058",
+          "Range": "",
+          "Name": "White Elasticated Back Wide Leg Trousers",
+          "Brand": "Next",
+          "MinPrice": "1144",
+          "Price": "1144",
+          "Ratings": {
+            "AverageOverallRating": "5"
+          },
+          "Colour": "White",
+          "PetiteItemNumber": "810776",
+          "TallItemNumber": "1",
+          "Colours": [
+            {
+              "ItemNumber": "Q91186",
+              "SearchImage": "Q91186.jpg",
+              "SwatchImage": "Q91186.jpg",
+              "Url": "style/su170259/q91186#q91186",
+              "Name": "Mint Green Elasticated Back Wide Leg Trousers",
+              "MinPrice": "1144",
+              "Price": "1144",
+              "Colour": "Mint Green",
+              "TallItemNumber": "1",
+              "Range": "",
+              "TPSearchDescription": "Next Mint Green Elasticated Back Wide Leg Trousers",
+              "TPStyleDescription": "Next Elasticated Back Wide Leg Trousers",
+              "MarkdownType": "None",
+              "IsDiscount": false,
+              "Ratings": {
+                "AverageOverallRating": ""
+              }
+            }
+          ],
+          "ProductName": "Elasticated Wide Leg",
+          "TPSearchDescription": "Next White Elasticated Back Wide Leg Trousers",
+          "TPStyleDescription": "Next Elasticated Back Wide Leg Trousers",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        },
+        {
+          "SearchPosition": "24",
+          "ItemNumber": "751081",
+          "SearchImage": "751081.jpg",
+          "SwatchImage": "751081.jpg",
+          "Url": "style/su041364/751081#751081",
+          "Range": "",
+          "Name": "Blue Textured Linen Tapered Leg Trousers",
+          "Brand": "Next",
+          "MinPrice": "942",
+          "Price": "942",
+          "Ratings": {
+            "AverageOverallRating": "4"
+          },
+          "Colour": "Blue",
+          "PetiteItemNumber": "764902",
+          "TallItemNumber": "1",
+          "ProductName": "Linen Taper Trousers",
+          "TPSearchDescription": "Next Blue Textured Linen Tapered Leg Trousers",
+          "TPStyleDescription": "Next Textured Linen Tapered Leg Trousers",
+          "Department": "Womenswear",
+          "ItemFit": "Regular",
+          "SearchType": 0,
+          "IsDiscount": false,
+          "IsPersonalised": "N",
+          "PetiteLogo": false,
+          "TallLogo": false,
+          "MarkdownType": "None",
+          "ItemType": 1
+        }
+      ]
+    }
+  },
+  "Currency": {
+    "Code": "GBP",
+    "Symbol": "£",
+    "CurrencyAlignLeft": false
+  }
+}
