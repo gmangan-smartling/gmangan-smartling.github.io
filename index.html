@@ -1,5 +1,23 @@
 <html>
 <head>
+  	<script type="text/javascript">
+	function parseHttpHeaders(httpHeaders) {
+    return httpHeaders.split("\n")
+     .map(x=>x.split(/: */,2))
+     .filter(x=>x[0])
+     .reduce((ac, x)=>{ac[x[0]] = x[1];return ac;}, {});
+}
+
+var req = new XMLHttpRequest();
+req.open('GET', document.location, false);
+req.send(null);
+var headers = parseHttpHeaders(req.getAllResponseHeaders());
+for (var key in headers){
+	console.log(key + ': ' + headers[key]);
+}
+
+/*console.log(headers["content-type"]);*/
+	</script>
   <meta name="description" content="Shop for Grey Lion Padded Coat (3mths-7yrs) at Next Hungary | International shipping and returns available | Buy now!" />
   <meta name="description" content="Shop for Grey Lion anchanage Coat (3mths-7yrs) at Next Hungary. International shipping and reruns available. Buy now!" />
 </head>
