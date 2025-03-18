@@ -35,3 +35,6 @@ span.appendChild(span_node);
 // Append the p element to the body:
 document.getElementById("progressive").appendChild(span);
 }
+function compDiv(){
+document.getElementById('js_string').innerHTML = "String in Javscript only.";
+}
