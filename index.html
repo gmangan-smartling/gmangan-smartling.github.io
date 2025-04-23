@@ -25,6 +25,19 @@ let text = [{defaultMessage:"This value seems to be invalid.",type:{email:"This 
 
 <h2 class="varianttest">Test</h2>
 	<h1 hidden>Hidden attribute.</h1>
+	<form data-wp-on--submit="actions.submitForm" data-wp-init--init="callbacks.init">
+		<div class="trial-form-fields">
+			<div class="form-group">
+				<input class="basic-input" aria-label="Work Email" data-wp-on--input="actions.setInput" data-wp-on--blur="actions.validateEmail" autocomplete="off" placeholder="" type="email" id="email" value="" />
+				<label for="email" class="form-label">Correo electrónico laboral <span class="required-label">*</span>
+				</label>
+				<span hidden="" class="error" data-wp-bind--hidden="!context.errors.email"><p class="error-text" data-wp-text="context.errorMessages.required">Este campo es obligatorio.</p></span>
+				<span hidden="" class="error" data-wp-bind--hidden="!context.errors.ineligibleEmail"><p class="error-text" data-wp-text="context.errorMessages.ineligibleEmail">This email is not eligible for a trial.</p></span>
+				<span hidden="" class="error" data-wp-bind--hidden="!context.errors.invalidEmail.email"><p class="error-text" data-wp-text="context.errorMessages.invalidEmail">Must provide a valid email.</p></span>
+				<span hidden="" class="error" data-wp-bind--hidden="!context.validationErrors.email"><p class="error-text" data-wp-text="context.errorMessages.invalidEmail">Must provide a valid email.</p></span>
+			</div>
+		</div>
+	</form>
 	<h2 example="this is a block tag.">Ingestion test.</h2>
 	<div>
 	<img class="cm-media--loading hp-tile-slider__img c-banner-tile__img img-responsive cm-image " src="https://www.next.at/cms/resource/blob/914214/d97cd4b0885c4d1f3c4fe2f9ada1d1b2/27-02-25-destkop-row-5-min-eu-data.jpg" title="Title image string here." alt="Alt text here." slider="Custom attribute test."/>
