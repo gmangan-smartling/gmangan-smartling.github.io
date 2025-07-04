@@ -1,22 +1,11 @@
 <html>
   <body>
     <p>Some text.</p>
-    <script>
-(function (w, o) {
-    try {
-        var h = document.getElementsByTagName("head")[0];
-        var s = document.createElement("script");
-        s.type = "text/javascript";
-        s.async = 1;
-        s.crossOrigin = "anonymous";
-        s.src = "//d2c7xlmseob604.cloudfront.net/tracker.min.js";
-        s.onload = function () {
-            w.SmartlingContextTracker.init({ orgId: o });
-        };
-        h.insertBefore(s, h.firstChild);
-    } catch (ex) {
-    }
-})(window, "DmlCGCw2p9d0W+jg37snew")
+  <script type="text/javascript" src="//d2c7xlmseob604.cloudfront.net/tracker.min.js"></script>
+<script>
+    SmartlingContextTracker.init({
+        orgId: 'DmlCGCw2p9d0W+jg37snew'
+    });
 </script>
   </body>
 </html>
