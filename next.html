@@ -1,5 +1,8 @@
 <html>
 <head>
+  <script src=
+"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+    </script>
 <link rel="alternate" href="https://www.next.ua/uk" hreflang="uk-ua" />
 <link rel="alternate" href="https://www.next.tw/zh" hreflang="zh-tw" />
 <link rel="alternate" href="https://www.nextdirect.com/hk/zh" hreflang="zh-hk" />
@@ -88,5 +91,81 @@
   <p alt="M&amp;Co Moulded T-Shirt Bra">M&amp;Co Moulded T-Shirt Bra</p>
   <p>M&Co Moulded T-Shirt Bra</p>
   <input type="hidden" name="AccountMathchingEmailErrorText" id="AccountMathchingEmailErrorText" value="This email address is already registered to a Reiss account. Use a different email address to continue." />
+<script type="text/javascript">
+
+
+
+		$(document).ready(function() {
+
+			 $("select.lead_type_id").change(function() {
+			   	var thisMsg = $(this).find(':selected').data('msg')
+			   	if(thisMsg != '')
+			   	{
+			   		alert(thisMsg);
+			   	}
+			   	$('#leadTypePost').submit();
+			  });
+
+
+			$(".btnClose").click(function() {
+				$("#companyModal").modal("hide");
+			});
+
+			$(".searchComp").click(function() {
+				$("#companyModal").modal("show");
+				$(".companyName").val("");
+				$(".searchResults").html("");
+				$(".companyName").focus();
+			});
+
+			$("#btnSubmit").click(function(e) {
+				var pass = 1,
+					msg = "";
+
+				$(".contactRequired").each(function() {
+
+					
+				    						
+					if ( ! $(this).val().length )
+						pass = 0;
+
+					
+
+				});
+				
+
+				var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
+
+				var email = $("#Email").val();
+				email = email.trim();
+					if(!email.match(re)) {
+						pass = 0;
+						msg = msg + /*<sl:translate><first-string/>*/"Please enter a valid email address.\nInvalid characters like spaces, tabs, or newlines are not allowed.\n";
+				    
+				   }
+				
+					if(!($("#chkConsent").is(':checked')))
+					{
+						pass = 0;
+						msg = msg + /*<sl:translate>*/"Please confirm that you have received the verbal consent from customer.\n"/*</sl:translate>*/;
+				   }
+				
+				
+
+				if ( pass == 0 ) {
+					pass = 0;
+					msg = msg + "Please complete all required fields.\n";
+					alert(msg);
+					return false;
+					e.preventDefault();
+				} else {
+					$("#newLeadForm").submit();
+				}
+
+			});
+
+		});
+
+	</script>
 </body>
 </html>
