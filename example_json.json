@@ -1,6 +1,7 @@
 {
   "home":{
-    "title": "Title text"
+    "title": "Title text",
+    "description": "Description text example json"
   },
   "title": "Title here"
 }
