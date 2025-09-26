@@ -1,6 +1,7 @@
 {
   "test":{
-    "test1": "What happens?"
+    "title": "Title text",
+    "description": "What happens?"
   },
-  "test2": "See here."
+  "title": "Title here."
 }
