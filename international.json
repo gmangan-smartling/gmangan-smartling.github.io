@@ -1,5 +1,5 @@
 {
-  "sl_transalate":"title,linkText,imageAltText,value",
+  "sl_transalate":"title,linkText,imageAltText,summaryCopy,content,value",
   "data": {
     "universalContentFragmentList": {
       "items": [
