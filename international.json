@@ -14,15 +14,15 @@
           ],
           "content": [
             {
-              "anchorLinkId": null,
+              "anchorLinkId": "null",
               "title": "Take your pick from our best offers",
-              "logoName": null,
+              "logoName": "null",
               "linkText": "Search flights",
               "linkUrl": "LON",
               "imageDMUrl": "https://ba.scene7.com/is/image/ba/st-pauls-cathedral-sunrise-london",
               "imageAltText": "A dramatic sunrise over St Paul's Cathedral in London.",
               "imageRestrictions": "This image is restricted. Restrictions: British AirwaysBritish Airways HolidaysBritish AirwaysBritish Airways Holidays ",
-              "imageDMUrlSmartCrop": null,
+              "imageDMUrlSmartCrop": "null",
               "summaryCopy": {
                 "json": [
                   {
