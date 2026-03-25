@@ -1,0 +1,71 @@
+{
+  "sl_transalate":"title,linkText,imageAltText,value",
+  "data": {
+    "universalContentFragmentList": {
+      "items": [
+        {
+          "_path": "/content/dam/british-airways/en/homepage/app/global/discover/container",
+          "tags": [
+            "ba:digital/homepage/app/discover"
+          ],
+          "_tags": [],
+          "market": [
+            "ba:digital/markets/ww"
+          ],
+          "content": [
+            {
+              "anchorLinkId": null,
+              "title": "Take your pick from our best offers",
+              "logoName": null,
+              "linkText": "Search flights",
+              "linkUrl": "LON",
+              "imageDMUrl": "https://ba.scene7.com/is/image/ba/st-pauls-cathedral-sunrise-london",
+              "imageAltText": "A dramatic sunrise over St Paul's Cathedral in London.",
+              "imageRestrictions": "This image is restricted. Restrictions: British AirwaysBritish Airways HolidaysBritish AirwaysBritish Airways Holidays ",
+              "imageDMUrlSmartCrop": null,
+              "summaryCopy": {
+                "json": [
+                  {
+                    "nodeType": "paragraph",
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "London flights"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "bodyCopy": {
+                "json": [
+                  {
+                    "nodeType": "paragraph",
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Enjoy our flights to London."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "footerCopy": {
+                "json": [
+                  {
+                    "nodeType": "paragraph",
+                    "content": [
+                      {
+                        "nodeType": "text",
+                        "value": "Enjoy our flights to London."
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
