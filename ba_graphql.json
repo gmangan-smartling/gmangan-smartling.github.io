@@ -1,6 +1,973 @@
 {
-"sl_translate": "title,description,key",
-"title":"<h1>Title here</h1>",
-"description":"<p>Some paragraph</p><p>Second paragrah</p>",
-  "key":"Regular string"
+  "sl_translate": "heading,introductionText,additionalInformation,termsConditions,ctaLabel,title,message,mainTitle,subTitle,primaryTitle,secondaryTitle,iconAlt,text,articleImageAltText,articleContentSrcImageAltText,articleTitle,articleBody,articleThumbnailImgAltText,linkTitle,alt,moreTitle,customPriceHeaderOne,linkText,description,footerText,footerLinkText,termsAndConditionsText,termsAndConditionsLinkText,header,messageTitle,messageText,ctaText,countdownHeadline,adHocLinkText,customHeader,aprText,postLoginCtaText,additionalInfo,html,imageAltText,cityImageAltText,paragraphText,backgroundImageAltText,campaignName,headline,CTAText,CTAText1,CTAText2,question,linkLabel,cabinClass,optionalHeader,boardBasis,preDefinedHeader,priceType,cabin,preDefinedPriceText,menuText,answer,plaintext,value",
+  "headlessContentData": {
+    "data": {
+      "universalContentFragmentList": {
+        "items": [
+          {
+            "market": null,
+            "_path": "/content/dam/british-airways/en/contact-us/contact-us-ggl/container",
+            "content": [
+              {
+                "logoName": null,
+                "imageRestrictions": null,
+                "imageAltText": null,
+                "bodyCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Your dedicated customer support team is available 24 hours a day, 7 days a week "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "footerCopy": {
+                  "json": null
+                },
+                "summaryCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Call us: "
+                        },
+                        {
+                          "data": {
+                            "href": "tel:08004081111"
+                          },
+                          "nodeType": "link",
+                          "value": "0800 408 1111"
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": " From outside the UK: "
+                        },
+                        {
+                          "data": {
+                            "href": "+442079493057"
+                          },
+                          "nodeType": "link",
+                          "value": "+44 207 949 3057"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "anchorLinkId": null,
+                "linkUrl": null,
+                "imageDMUrl": null,
+                "imageDMUrlSmartCrop": null,
+                "linkText": null,
+                "title": "優先サポート"
+              }
+            ],
+            "tags": [
+              "ba:digital/contact-us/ggl",
+              "ba:digital/product/customer-engagement"
+            ]
+          },
+          {
+            "market": null,
+            "_path": "/content/dam/british-airways/en/contact-us/contact-us-premier/container",
+            "content": [
+              {
+                "logoName": null,
+                "imageRestrictions": null,
+                "imageAltText": null,
+                "bodyCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Your dedicated customer support team is available 24 hours a day, 7 days a week"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "footerCopy": {
+                  "json": null
+                },
+                "summaryCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Call us: "
+                        },
+                        {
+                          "data": {
+                            "href": "tel:08002012320100"
+                          },
+                          "nodeType": "link",
+                          "value": "0800 123 100"
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": " From outside the UK: "
+                        },
+                        {
+                          "data": {
+                            "href": "tel:+442079493056"
+                          },
+                          "nodeType": "link",
+                          "value": "+44 207 949 3056"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "anchorLinkId": null,
+                "linkUrl": null,
+                "imageDMUrl": null,
+                "imageDMUrlSmartCrop": null,
+                "linkText": null,
+                "title": "優先サポート"
+              }
+            ],
+            "tags": [
+              "ba:digital/contact-us/premier",
+              "ba:digital/product/customer-engagement"
+            ]
+          },
+          {
+            "market": [
+              "ba:digital/markets/gb"
+            ],
+            "_path": "/content/dam/british-airways/en/partners/finance/amex/amex-classic/long/container",
+            "content": [
+              {
+                "logoName": null,
+                "imageRestrictions": "This image is restricted. Restrictions: British AirwaysBritish Airways Holidays | Permitted Regional Use: Worldwide | Channel usage: ba-channel:digital-media-emailba-channel:digital-media-mobileba-channel:digital-media-web",
+                "imageAltText": "British Airways American Express® Credit Card.",
+                "bodyCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Representative 29.1% APR variable"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "footerCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "No annual fee. Assumed £1,200 credit limit with 29.1% per annum variable purchase rate. "
+                        },
+                        {
+                          "data": {
+                            "href": "https://icm.aexp-static.com/Internet/internationalcardshop/en_gb/pdf/ba-credit-card/BACredit_TCs_Partner.pdf"
+                          },
+                          "nodeType": "link",
+                          "value": "T&Cs apply."
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": " 18+ UK residents, subject to approval."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "summaryCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "When you apply for the British Airways American Express® Credit Card and spend £2,000 in your first three months."
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": "1"
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "You’ll also collect 1 Avios for every £1 spent on purchases, and there’s no annual fee."
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Plus, take off together for half the Avios on a Reward Flight with a Companion Voucher. Spend £15,000 in a Cardmembership year to qualify."
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "If you apply now you won’t lose your booking, and if you’re accepted instantly you can use your new Card to pay for your trip."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "anchorLinkId": null,
+                "linkUrl": "https://www.avios.com/collect-avios/shopping/api/auth/login?returnto=/en-gb/collect-avios/shopping/american-express-british-airways",
+                "imageDMUrl": "https://ba.scene7.com/is/image/ba/american-express-british-airways-classic-card-digital?fmt=png-alpha",
+                "imageDMUrlSmartCrop": null,
+                "linkText": "British Airways American Express Cardの申し込みを行う",
+                "title": "5,000 Aviosボーナスを獲得"
+              },
+              {
+                "logoName": null,
+                "imageRestrictions": null,
+                "imageAltText": null,
+                "bodyCopy": {
+                  "json": null
+                },
+                "footerCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "1"
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": "Only available to eligible new Cardmembers, who have not held a personal American Express® Card within the previous 24 months."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "summaryCopy": {
+                  "json": null
+                },
+                "anchorLinkId": null,
+                "linkUrl": null,
+                "imageDMUrl": null,
+                "imageDMUrlSmartCrop": null,
+                "linkText": null,
+                "title": null
+              }
+            ],
+            "tags": [
+              "ba:digital/unique-id/pfac001",
+              "ba:digital/partners/finance/amex",
+              "ba:digital/product/classic-retail"
+            ]
+          },
+          {
+            "market": [
+              "ba:digital/markets/gb"
+            ],
+            "_path": "/content/dam/british-airways/en/partners/finance/amex/amex-classic/short/container",
+            "content": [
+              {
+                "logoName": null,
+                "imageRestrictions": "This image is restricted. Restrictions: British AirwaysBritish Airways Holidays | Permitted Regional Use: Worldwide | Channel usage: ba-channel:digital-media-emailba-channel:digital-media-mobileba-channel:digital-media-web",
+                "imageAltText": "British Airways American Express® Credit Card.",
+                "bodyCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Representative 29.1% APR variable."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "footerCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Eligible new Cardmembers only. Your rates may vary depending on your circumstances. Terms apply. 18+ UK residents, subject to status."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "summaryCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "When you apply for the British Airways American Express® Credit Card and spend £2,000 in your first three months of Card membership. Plus, get 1 Avios for every £1 you spend on purchases, with no annual fee."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "anchorLinkId": null,
+                "linkUrl": "https://www.avios.com/collect-avios/shopping/api/auth/login?returnto=/en-gb/collect-avios/shopping/american-express-british-airways",
+                "imageDMUrl": "https://ba.scene7.com/is/image/ba/american-express-british-airways-classic-card-digital?fmt=png-alpha",
+                "imageDMUrlSmartCrop": null,
+                "linkText": "今すぐ申し込む",
+                "title": "5,000 Aviosのウェルカムボーナスを獲得"
+              }
+            ],
+            "tags": [
+              "ba:digital/partners/finance/amex",
+              "ba:digital/product/classic-retail",
+              "ba:digital/unique-id/pfac002"
+            ]
+          },
+          {
+            "market": [
+              "ba:digital/markets/gb"
+            ],
+            "_path": "/content/dam/british-airways/en/partners/finance/amex/amex-premium/long/container",
+            "content": [
+              {
+                "logoName": null,
+                "imageRestrictions": "This image is restricted. Restrictions: British AirwaysBritish Airways Holidays | Permitted Regional Use: Worldwide | Channel usage: ba-channel:digital-media-emailba-channel:digital-media-mobileba-channel:digital-media-web",
+                "imageAltText": "British Airways American Express® Premium Plus Card。",
+                "bodyCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Representative 135.7% APR variable"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "footerCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "£300 annual fee. Assumed £1,200 credit limit with 29.1% per annum variable purchase rate. "
+                        },
+                        {
+                          "data": {
+                            "href": "https://icm.aexp-static.com/Internet/internationalcardshop/en_gb/pdf/ba-premium-plus-credit-card/BAPremiumPlus_TCs_Partner.pdf"
+                          },
+                          "nodeType": "link",
+                          "value": "T&Cs apply"
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": ". 18+ UK residents, subject to approval."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "summaryCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "When you apply for the British Airways American Express® Premium Plus Card and spend £6,000 in your first three months."
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": "1"
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "You'll also collect 1.5 Avios for every £1 spent on purchases, and 3 Avios for every £1 spent on British Airways flights and holidays."
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Plus, take off together for half the Avios on a Reward Flight in any cabin, including Club World and First, with a Companion Voucher. Spend £15,000 in a Cardmembership year to qualify."
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "If you apply now you won't lose your booking, and if you're accepted instantly you can use your new Card to pay for your trip."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "anchorLinkId": null,
+                "linkUrl": "https://www.avios.com/collect-avios/shopping/api/auth/login?returnto=/en-gb/collect-avios/shopping/american-express-british-airways",
+                "imageDMUrl": "https://ba.scene7.com/is/image/ba/ba-amex-premium-plus-card?fmt=png-alpha",
+                "imageDMUrlSmartCrop": null,
+                "linkText": "British Airways American Express Cardの申し込みを行う",
+                "title": "30,000 Aviosボーナスを獲得"
+              },
+              {
+                "logoName": null,
+                "imageRestrictions": null,
+                "imageAltText": null,
+                "bodyCopy": {
+                  "json": null
+                },
+                "footerCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "1"
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": "Only available to eligible new Cardmembers, who have not held a personal British Airways American Express® Card within the previous 24 months."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "summaryCopy": {
+                  "json": null
+                },
+                "anchorLinkId": null,
+                "linkUrl": null,
+                "imageDMUrl": null,
+                "imageDMUrlSmartCrop": null,
+                "linkText": null,
+                "title": null
+              }
+            ],
+            "tags": [
+              "ba:digital/product/classic-retail",
+              "ba:digital/partners/finance/amex",
+              "ba:digital/unique-id/pfap001"
+            ]
+          },
+          {
+            "market": [
+              "ba:digital/markets/north-america/us"
+            ],
+            "_path": "/content/dam/british-airways/en/partners/finance/chase/visa-signature-offer/container",
+            "content": [
+              {
+                "logoName": null,
+                "imageRestrictions": "This image is restricted. Restrictions: British AirwaysBritish Airways Holidaysba-restrictions:avios | Permitted Regional Use: United States | Channel usage: ba-channel:digital-media-emailba-channel:digital-media-mobileba-channel:digital-media-socialba-channel:digital-media-web",
+                "imageAltText": "A British Airways and Chase Visa Signature Credit Card.",
+                "bodyCopy": {
+                  "json": null
+                },
+                "footerCopy": {
+                  "json": null
+                },
+                "summaryCopy": {
+                  "json": [
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Boost your Avios balance by earning 75,000 Avios when you spend $5,000 on purchases within the first 3 months of account opening."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "anchorLinkId": null,
+                "linkUrl": "https://www.avios.com/collect-avios/shopping/api/auth/login?returnto=/en-gb/collect-avios/shopping/american-express-british-airways",
+                "imageDMUrl": "https://ba.scene7.com/is/image/ba/chase-bank-british-airways-visa-signature-card?fmt=png-alpha",
+                "imageDMUrlSmartCrop": null,
+                "linkText": "詳細を見る",
+                "title": "Earn 75,000 Avios with the British Airways Visa Signature® Card"
+              }
+            ],
+            "tags": [
+              "ba:digital/partners/finance/chase",
+              "ba:digital/unique-id/pfcvs001",
+              "ba:digital/product/classic-retail"
+            ]
+          },
+          {
+            "market": [
+              "ba:digital/markets/gb"
+            ],
+            "_path": "/content/dam/british-airways/en/universal-content/legalcontent/cookiepolicy/cookiepolicy",
+            "content": [
+              {
+                "logoName": null,
+                "imageRestrictions": null,
+                "imageAltText": null,
+                "bodyCopy": {
+                  "json": null
+                },
+                "footerCopy": {
+                  "json": null
+                },
+                "summaryCopy": {
+                  "json": [
+                    {
+                      "style": "h2",
+                      "nodeType": "header",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Choosing your cookies"
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "To manage or change your cookie preferences, click on the Customise button. Otherwise, read on to understand how we use cookies and similar technologies."
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "reference"
+                        },
+                        {
+                          "nodeType": "line-break",
+                          "content": []
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": " \u003Cbutton id=\"ot-sdk-btn\" class=\"ot-sdk-show-settings\"\u003ECustomise\u003C/button\u003E"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "anchorLinkId": "customise",
+                "linkUrl": null,
+                "imageDMUrl": null,
+                "imageDMUrlSmartCrop": null,
+                "linkText": null,
+                "title": null
+              },
+              {
+                "logoName": null,
+                "imageRestrictions": null,
+                "imageAltText": null,
+                "bodyCopy": {
+                  "json": null
+                },
+                "footerCopy": {
+                  "json": null
+                },
+                "summaryCopy": {
+                  "json": [
+                    {
+                      "style": "h2",
+                      "nodeType": "header",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "What are cookies?"
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "When you travel with us online – through our websites, apps or other digital services (our services) – we want your experience to be smooth, secure and tailored to you. To help us do this, we use cookies and similar technologies. These include: "
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "unordered-list",
+                      "content": [
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Small data files stored on your device (cookies)"
+                            }
+                          ]
+                        },
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Tiny images or code snippets (pixels and tags)"
+                            }
+                          ]
+                        },
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Tools or code that sit inside apps (software development kits or SDKs) "
+                            }
+                          ]
+                        },
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Server-side technologies, such as scripts or event-handling services that support analytics, security and the delivery of advertising or measurement signals"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "These technologies work together to help us understand how our services are used, keep them secure and display content that’s relevant to you. When we refer to ‘cookies’ in this policy, we mean all of these technologies. "
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "This policy explains how we use them, what choices you have and how you can control technologies that aren’t essential for our services to run."
+                        }
+                      ]
+                    },
+                    {
+                      "style": "h3",
+                      "nodeType": "header",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Why we use cookies and similar technologies"
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "They help us to: "
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "unordered-list",
+                      "content": [
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Keep our services safe, secure and working properly"
+                            }
+                          ]
+                        },
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Remember your bookings, logins and preferences"
+                            }
+                          ]
+                        },
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Understand how people use our websites and apps so that we can improve them"
+                            }
+                          ]
+                        },
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Show products, services and offers that are more relevant to you"
+                            }
+                          ]
+                        },
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Enable certain features, such as social media sharing and fraud-prevention checks"
+                            }
+                          ]
+                        },
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Support server-side processes (for example, sending privacy-approved signals that help us measure the performance of British Airways campaigns without placing additional data on your device)"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "style": "h3",
+                      "nodeType": "header",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Controlling your cookies"
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "When you first visit one of our sites or apps, you’ll see a notice explaining the types of cookies we use. Through our "
+                        },
+                        {
+                          "data": {
+                            "href": "#customise"
+                          },
+                          "nodeType": "link",
+                          "value": "cookie preferences Customise button"
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": ", you can accept or decline categories of cookies (apart from those essential for our services to run) and change your mind at any time. "
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "View our "
+                        },
+                        {
+                          "data": {
+                            "href": "#cookies"
+                          },
+                          "nodeType": "link",
+                          "value": "cookie listing"
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": " for more detailed information about each cookie. "
+                        }
+                      ]
+                    },
+                    {
+                      "style": "h3",
+                      "nodeType": "header",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Different cookies on different services "
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Not all of our websites, apps or digital services use every category of cookie or technology. Some may use only essential and performance cookies, while others also include advertising or social media tools. "
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "When you visit, you’ll only be asked about the categories that are in use on that particular site or app. You won’t be asked to consent to categories that aren’t relevant to the service you’re using. "
+                        }
+                      ]
+                    },
+                    {
+                      "style": "h3",
+                      "nodeType": "header",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "How long cookies last "
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Cookies and similar technologies last for different periods of time: "
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "unordered-list",
+                      "content": [
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Session cookies expire when you close your browser "
+                            }
+                          ]
+                        },
+                        {
+                          "nodeType": "list-item",
+                          "content": [
+                            {
+                              "nodeType": "text",
+                              "value": "Persistent cookies remain for a set period or until you delete them"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "You can find out how long each cookie lasts in our "
+                        },
+                        {
+                          "data": {
+                            "href": "#cookies"
+                          },
+                          "nodeType": "link",
+                          "value": "cookie listing"
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": ". "
+                        }
+                      ]
+                    },
+                    {
+                      "style": "h3",
+                      "nodeType": "header",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Responsibility for cookies "
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Each British Airways Group company operating a site, app or other digital service where cookies are used, is responsible for the cookies placed on that service. "
+                        }
+                      ]
+                    },
+                    {
+                      "style": "h3",
+                      "nodeType": "header",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "How do I refuse cookies?"
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "In addition to choosing which category of optional cookies to accept in our "
+                        },
+                        {
+                          "data": {
+                            "href": "#customise"
+                          },
+                          "nodeType": "link",
+                          "value": "cookies preferences Customise button"
+                        },
+                        {
+                          "nodeType": "text",
+                          "value": ", you can refuse to have some, or all cookies placed on your device. You can do this by altering the settings on your internet browser (including Internet Explorer, Google Chrome, Firefox and others). How you do this will depend on the internet browser you use. You can find out how to switch off your cookies either by consulting the online ‘Help’ or ‘Preferences’ menu for your browser. "
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "paragraph",
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "If you change your browser settings to refuse all cookies (including essential cookies), you may not be able to continue to use all or parts of our services. For example, deleting cookies may require you to reconfirm preferences (like your language and region) and may cause some pages or features to stop working."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "anchorLinkId": null,
+                "linkUrl": null,
+                "imageDMUrl": null,
+                "imageDMUrlSmartCrop": null,
+                "linkText": null,
+                "title": null
+              }
+            ],
+            "tags": [
+              "ba:digital/legal"
+            ]
+          }
+        ]
+      }
+    }
+  }
 }
