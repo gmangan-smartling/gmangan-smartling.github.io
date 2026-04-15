@@ -1,4 +1,5 @@
 {
+    "sl_translate":"cabinLabel,airportName,cityName,label,passengerLabel",
     "currencyCode": "USD",
     "cabinLabel": "Economy",
     "departureDate": "2026-04-30",
@@ -421,6 +422,5 @@
             "id": "11TH_CHECKED_STANDARD",
             "label": "checked bag"
         }
-    ],
-    "sl_translate":"cabinLabel,airportName,cityName,label,passengerLabel"
+    ]
 }
