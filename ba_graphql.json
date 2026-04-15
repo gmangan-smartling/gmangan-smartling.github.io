@@ -422,12 +422,5 @@
             "label": "checked bag"
         }
     ],
-    "sl_translate":
-    [
-        "cabinLabel",
-        "airportName",
-        "cityName",
-        "label",
-        "passengerLabel"
-    ]
+    "sl_translate":"cabinLabel,airportName,cityName,label,passengerLabel"
 }
