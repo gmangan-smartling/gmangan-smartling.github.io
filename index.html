@@ -1,7 +1,21 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+<meta charset="UTF-8">
+<title>Search Form Demo</title>
+<style>
+  body { font-family: sans-serif; max-width: 500px; margin: 60px auto; }
+  form { display: flex; gap: 8px; }
+  input[type="search"] { flex: 1; padding: 8px; font-size: 1rem; }
+  button { padding: 8px 16px; font-size: 1rem; }
+</style>
 </head>
-<body class="homepage">
-	<header>Sample page</header>
+<body>
+  <h1>Search</h1>
+  <form action="" method="GET">
+    <input type="search" name="s" placeholder="Enter search term..." autocomplete="off">
+    <button type="submit">Search</button>
+  </form>
+  <p>Try it — submitting will change the URL to include <code>?s=yourterm</code>.</p>
 </body>
 </html>
